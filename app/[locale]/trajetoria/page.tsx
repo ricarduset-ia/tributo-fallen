@@ -3,7 +3,7 @@ import { TeamsTimeline } from "@/components/trajetoria/TeamsTimeline";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Locale } from "@/i18n";
 
-export default async function Page({ params }: { params: Promise<{ locale: Locale }> }) {
+export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("trajetoria");

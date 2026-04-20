@@ -15,7 +15,7 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
   return {
@@ -32,9 +32,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: L
 
 export default async function LocaleLayout({
   children, params,
-}: { children: React.ReactNode; params: Promise<{ locale: Locale }> }) {
+}: { children: React.ReactNode; params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  if (!locales.includes(locale)) notFound();
+  if (!locales.includes(locale as Locale)) notFound();
   setRequestLocale(locale);
   const messages = await getMessages();
 
