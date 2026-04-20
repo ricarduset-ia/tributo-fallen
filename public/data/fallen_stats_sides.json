@@ -1,0 +1,205 @@
+{
+  "source": "stats/players/2023/fallen",
+  "metrics": {
+    "Kills per round": {
+      "combined": 0.67,
+      "t_side": 0.75,
+      "ct_side": 0.6
+    },
+    "Rounds with a kill": {
+      "combined": 46.2,
+      "t_side": 50.1,
+      "ct_side": 42.3
+    },
+    "Kills per round win": {
+      "combined": 0.9,
+      "t_side": 1,
+      "ct_side": 0.79
+    },
+    "Rating 1.0": {
+      "combined": 1.04,
+      "t_side": 1.16,
+      "ct_side": 0.92
+    },
+    "Damage per round": {
+      "combined": 69.7,
+      "t_side": 76.4,
+      "ct_side": 62.9
+    },
+    "Rounds with a multi-kill": {
+      "combined": 16.2,
+      "t_side": 18.7,
+      "ct_side": 13.7
+    },
+    "Damage per round win": {
+      "combined": 79.4,
+      "t_side": 86.6,
+      "ct_side": 71.6
+    },
+    "Pistol round rating": {
+      "combined": 0.92,
+      "t_side": 1.02,
+      "ct_side": 0.81
+    },
+    "Saved by teammate per round": {
+      "combined": 0.09,
+      "t_side": 0.07,
+      "ct_side": 0.09
+    },
+    "Traded deaths per round": {
+      "combined": 0.11,
+      "t_side": 0.09,
+      "ct_side": 0.12
+    },
+    "Traded deaths percentage": {
+      "combined": 17.4,
+      "t_side": 16.4,
+      "ct_side": 18.3
+    },
+    "Opening deaths traded percentage": {
+      "combined": 19.2,
+      "t_side": 17.2,
+      "ct_side": 21.4
+    },
+    "Assists per round": {
+      "combined": 0.11,
+      "t_side": 0.12,
+      "ct_side": 0.1
+    },
+    "Support rounds": {
+      "combined": 19.5,
+      "t_side": 18.4,
+      "ct_side": 17.2
+    },
+    "Saved teammate per round": {
+      "combined": 0.08,
+      "t_side": 0.06,
+      "ct_side": 0.09
+    },
+    "Trade kills per round": {
+      "combined": 0.11,
+      "t_side": 0.1,
+      "ct_side": 0.13
+    },
+    "Trade kills percentage": {
+      "combined": 17.0,
+      "t_side": 12.8,
+      "ct_side": 22.2
+    },
+    "Assisted kills percentage": {
+      "combined": 20.0,
+      "t_side": 19.7,
+      "ct_side": 20.5
+    },
+    "Damage per kill": {
+      "combined": 93,
+      "t_side": 92,
+      "ct_side": 94
+    },
+    "Opening kills per round": {
+      "combined": 0.11,
+      "t_side": 0.15,
+      "ct_side": 0.08
+    },
+    "Opening deaths per round": {
+      "combined": 0.08,
+      "t_side": 0.08,
+      "ct_side": 0.08
+    },
+    "Opening attempts": {
+      "combined": 19.4,
+      "t_side": 23.0,
+      "ct_side": 15.7
+    },
+    "Opening success": {
+      "combined": 57.4,
+      "t_side": 63.6,
+      "ct_side": 48.1
+    },
+    "Win% after opening kill": {
+      "combined": 73.5,
+      "t_side": 73.3,
+      "ct_side": 73.9
+    },
+    "Attacks per round": {
+      "combined": 2.02,
+      "t_side": 1.84,
+      "ct_side": 1.8
+    },
+    "Clutch points per round": {
+      "combined": 0.02,
+      "t_side": 0.02,
+      "ct_side": 0.03
+    },
+    "Last alive percentage": {
+      "combined": 9.3,
+      "t_side": 7.6,
+      "ct_side": 10.9
+    },
+    "1on1 win percentage": {
+      "combined": 59.0,
+      "t_side": 51.2,
+      "ct_side": 67.7
+    },
+    "Time alive per round": {
+      "combined": "1m 3s",
+      "t_side": "1m 0s",
+      "ct_side": "1m 5s"
+    },
+    "Saves per round loss": {
+      "combined": 7.3,
+      "t_side": 12.1,
+      "ct_side": 2.7
+    },
+    "Sniper kills per round": {
+      "combined": 0.34,
+      "t_side": 0.39,
+      "ct_side": 0.22
+    },
+    "Sniper kills percentage": {
+      "combined": 50.9,
+      "t_side": 59.1,
+      "ct_side": 40.7
+    },
+    "Rounds with sniper kills percentage": {
+      "combined": 25.5,
+      "t_side": 32.9,
+      "ct_side": 18.1
+    },
+    "Sniper multi-kill rounds": {
+      "combined": 0.09,
+      "t_side": 0.12,
+      "ct_side": 0.06
+    },
+    "Sniper opening kills per round": {
+      "combined": 0.08,
+      "t_side": 0.11,
+      "ct_side": 0.05
+    },
+    "Utility damage per round": {
+      "combined": 3.5,
+      "t_side": 4.06,
+      "ct_side": 2.93
+    },
+    "Utility kills per 100 rounds": {
+      "combined": 0.83,
+      "t_side": 0.74,
+      "ct_side": 0.7
+    },
+    "Flashes thrown per round": {
+      "combined": 0.94,
+      "t_side": 0.7,
+      "ct_side": 1.18
+    },
+    "Flash assists per round": {
+      "combined": 0.08,
+      "t_side": 0.06,
+      "ct_side": 0.1
+    },
+    "Time opponent flashed per round": {
+      "combined": 2.25,
+      "t_side": 2.47,
+      "ct_side": 2.12
+    }
+  }
+}

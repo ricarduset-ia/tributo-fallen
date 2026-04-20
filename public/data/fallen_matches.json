@@ -1,0 +1,1805 @@
+{
+  "source": "stats/players/matches/2023/fallen",
+  "matches": [
+    {
+      "Date": "19/04/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "Falcons (13)",
+      "T1": "mrg",
+      "T2": "18 - 17",
+      "Map": "+1",
+      "K - D": "1.04",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226782/furia-vs-falcons?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "19/04/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "Falcons (13)",
+      "T1": "d2",
+      "T2": "13 - 17",
+      "Map": "-4",
+      "K - D": "0.78",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226776/falcons-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "18/04/26",
+      "Player team": "FURIA (10)",
+      "Opponent": "Vitality (13)",
+      "T1": "anc",
+      "T2": "9 - 16",
+      "Map": "-7",
+      "K - D": "0.73",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226722/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "18/04/26",
+      "Player team": "FURIA (10)",
+      "Opponent": "Vitality (13)",
+      "T1": "ovp",
+      "T2": "11 - 19",
+      "Map": "-8",
+      "K - D": "0.73",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226720/furia-vs-vitality?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "15/04/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "MOUZ (9)",
+      "T1": "d2",
+      "T2": "15 - 15",
+      "Map": "0",
+      "K - D": "1.06",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226625/mouz-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4494/mouz",
+        "/stats/teams/4494/mouz"
+      ]
+    },
+    {
+      "Date": "15/04/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "MOUZ (5)",
+      "T1": "mrg",
+      "T2": "14 - 8",
+      "Map": "+6",
+      "K - D": "1.31",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226622/furia-vs-mouz?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4494/mouz",
+        "/stats/teams/4494/mouz"
+      ]
+    },
+    {
+      "Date": "14/04/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "Natus Vincere (13)",
+      "T1": "nuke",
+      "T2": "20 - 20",
+      "Map": "0",
+      "K - D": "1.18",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226570/furia-vs-natus-vincere?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "14/04/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Natus Vincere (4)",
+      "T1": "d2",
+      "T2": "15 - 10",
+      "Map": "+5",
+      "K - D": "1.56",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226569/natus-vincere-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "14/04/26",
+      "Player team": "FURIA (3)",
+      "Opponent": "Natus Vincere (13)",
+      "T1": "mrg",
+      "T2": "5 - 13",
+      "Map": "-8",
+      "K - D": "0.54",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226563/furia-vs-natus-vincere?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "13/04/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Passion UA (7)",
+      "T1": "mrg",
+      "T2": "13 - 13",
+      "Map": "0",
+      "K - D": "0.91",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226518/passion-ua-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12426/passion-ua",
+        "/stats/teams/12426/passion-ua"
+      ]
+    },
+    {
+      "Date": "13/04/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Passion UA (3)",
+      "T1": "inf",
+      "T2": "10 - 7",
+      "Map": "+3",
+      "K - D": "1.08",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/226516/furia-vs-passion-ua?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12426/passion-ua",
+        "/stats/teams/12426/passion-ua"
+      ]
+    },
+    {
+      "Date": "23/03/26",
+      "Player team": "FURIA (10)",
+      "Opponent": "Falcons (13)",
+      "T1": "nuke",
+      "T2": "15 - 16",
+      "Map": "-1",
+      "K - D": "1.02",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223712/furia-vs-falcons?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "23/03/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "Falcons (13)",
+      "T1": "d2",
+      "T2": "12 - 21",
+      "Map": "-9",
+      "K - D": "0.73",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223700/falcons-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "23/03/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "Falcons (13)",
+      "T1": "mrg",
+      "T2": "15 - 15",
+      "Map": "0",
+      "K - D": "1.01",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223686/furia-vs-falcons?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "22/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "NRG (7)",
+      "T1": "d2",
+      "T2": "17 - 11",
+      "Map": "+6",
+      "K - D": "1.34",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223586/furia-vs-nrg?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6673/nrg",
+        "/stats/teams/6673/nrg"
+      ]
+    },
+    {
+      "Date": "22/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "NRG (2)",
+      "T1": "nuke",
+      "T2": "9 - 8",
+      "Map": "+1",
+      "K - D": "1.12",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223581/nrg-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6673/nrg",
+        "/stats/teams/6673/nrg"
+      ]
+    },
+    {
+      "Date": "22/03/26",
+      "Player team": "FURIA (10)",
+      "Opponent": "NRG (13)",
+      "T1": "mrg",
+      "T2": "8 - 15",
+      "Map": "-7",
+      "K - D": "0.73",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223576/furia-vs-nrg?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6673/nrg",
+        "/stats/teams/6673/nrg"
+      ]
+    },
+    {
+      "Date": "20/03/26",
+      "Player team": "FURIA (6)",
+      "Opponent": "Aurora (13)",
+      "T1": "inf",
+      "T2": "7 - 15",
+      "Map": "-8",
+      "K - D": "0.46",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223361/aurora-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11861/aurora",
+        "/stats/teams/11861/aurora"
+      ]
+    },
+    {
+      "Date": "20/03/26",
+      "Player team": "FURIA (14)",
+      "Opponent": "Aurora (16)",
+      "T1": "d2",
+      "T2": "17 - 21",
+      "Map": "-4",
+      "K - D": "0.99",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223353/furia-vs-aurora?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11861/aurora",
+        "/stats/teams/11861/aurora"
+      ]
+    },
+    {
+      "Date": "18/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "TYLOO (11)",
+      "T1": "ovp",
+      "T2": "20 - 16",
+      "Map": "+4",
+      "K - D": "1.34",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223157/tyloo-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4863/tyloo",
+        "/stats/teams/4863/tyloo"
+      ]
+    },
+    {
+      "Date": "18/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "TYLOO (8)",
+      "T1": "mrg",
+      "T2": "14 - 12",
+      "Map": "+2",
+      "K - D": "1.24",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/223151/furia-vs-tyloo?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4863/tyloo",
+        "/stats/teams/4863/tyloo"
+      ]
+    },
+    {
+      "Date": "10/03/26",
+      "Player team": "FURIA (4)",
+      "Opponent": "Astralis (13)",
+      "T1": "inf",
+      "T2": "7 - 17",
+      "Map": "-10",
+      "K - D": "0.54",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222336/astralis-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6665/astralis",
+        "/stats/teams/6665/astralis"
+      ]
+    },
+    {
+      "Date": "10/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Astralis (9)",
+      "T1": "d2",
+      "T2": "12 - 14",
+      "Map": "-2",
+      "K - D": "0.90",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222331/astralis-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6665/astralis",
+        "/stats/teams/6665/astralis"
+      ]
+    },
+    {
+      "Date": "10/03/26",
+      "Player team": "FURIA (4)",
+      "Opponent": "Astralis (13)",
+      "T1": "nuke",
+      "T2": "10 - 11",
+      "Map": "-1",
+      "K - D": "0.87",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222320/furia-vs-astralis?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6665/astralis",
+        "/stats/teams/6665/astralis"
+      ]
+    },
+    {
+      "Date": "09/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "paiN (8)",
+      "T1": "d2",
+      "T2": "4 - 13",
+      "Map": "-9",
+      "K - D": "0.67",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222196/pain-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "09/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "paiN (6)",
+      "T1": "inf",
+      "T2": "11 - 11",
+      "Map": "0",
+      "K - D": "0.87",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222181/furia-vs-pain?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "08/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "HEROIC (9)",
+      "T1": "inf",
+      "T2": "17 - 13",
+      "Map": "+4",
+      "K - D": "1.13",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222038/heroic-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7175/heroic",
+        "/stats/teams/7175/heroic"
+      ]
+    },
+    {
+      "Date": "08/03/26",
+      "Player team": "FURIA (3)",
+      "Opponent": "HEROIC (13)",
+      "T1": "ovp",
+      "T2": "8 - 13",
+      "Map": "-5",
+      "K - D": "0.79",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222014/heroic-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7175/heroic",
+        "/stats/teams/7175/heroic"
+      ]
+    },
+    {
+      "Date": "08/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "HEROIC (8)",
+      "T1": "d2",
+      "T2": "7 - 18",
+      "Map": "-11",
+      "K - D": "0.51",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/222001/furia-vs-heroic?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7175/heroic",
+        "/stats/teams/7175/heroic"
+      ]
+    },
+    {
+      "Date": "07/03/26",
+      "Player team": "FURIA (8)",
+      "Opponent": "3DMAX (13)",
+      "T1": "ovp",
+      "T2": "8 - 17",
+      "Map": "-9",
+      "K - D": "0.69",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/221909/3dmax-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4914/3dmax",
+        "/stats/teams/4914/3dmax"
+      ]
+    },
+    {
+      "Date": "07/03/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "3DMAX (19)",
+      "T1": "d2",
+      "T2": "22 - 25",
+      "Map": "-3",
+      "K - D": "0.99",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/221892/3dmax-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4914/3dmax",
+        "/stats/teams/4914/3dmax"
+      ]
+    },
+    {
+      "Date": "06/03/26",
+      "Player team": "FURIA (6)",
+      "Opponent": "B8 (13)",
+      "T1": "d2",
+      "T2": "6 - 16",
+      "Map": "-10",
+      "K - D": "0.57",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/221794/b8-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11241/b8",
+        "/stats/teams/11241/b8"
+      ]
+    },
+    {
+      "Date": "06/03/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "B8 (2)",
+      "T1": "ovp",
+      "T2": "7 - 8",
+      "Map": "-1",
+      "K - D": "1.11",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/221791/b8-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11241/b8",
+        "/stats/teams/11241/b8"
+      ]
+    },
+    {
+      "Date": "06/03/26",
+      "Player team": "FURIA (8)",
+      "Opponent": "B8 (13)",
+      "T1": "mrg",
+      "T2": "10 - 14",
+      "Map": "-4",
+      "K - D": "0.95",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/221787/furia-vs-b8?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11241/b8",
+        "/stats/teams/11241/b8"
+      ]
+    },
+    {
+      "Date": "20/02/26",
+      "Player team": "FURIA (10)",
+      "Opponent": "The MongolZ (13)",
+      "T1": "nuke",
+      "T2": "11 - 18",
+      "Map": "-7",
+      "K - D": "0.71",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219952/furia-vs-the-mongolz?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6248/the-mongolz",
+        "/stats/teams/6248/the-mongolz"
+      ]
+    },
+    {
+      "Date": "20/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "The MongolZ (10)",
+      "T1": "d2",
+      "T2": "16 - 15",
+      "Map": "+1",
+      "K - D": "1.15",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219943/the-mongolz-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6248/the-mongolz",
+        "/stats/teams/6248/the-mongolz"
+      ]
+    },
+    {
+      "Date": "20/02/26",
+      "Player team": "FURIA (3)",
+      "Opponent": "The MongolZ (13)",
+      "T1": "mrg",
+      "T2": "4 - 13",
+      "Map": "-9",
+      "K - D": "0.49",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219937/furia-vs-the-mongolz?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6248/the-mongolz",
+        "/stats/teams/6248/the-mongolz"
+      ]
+    },
+    {
+      "Date": "17/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "PARIVISION (8)",
+      "T1": "mrg",
+      "T2": "12 - 12",
+      "Map": "0",
+      "K - D": "0.99",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219559/furia-vs-parivision?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12467/parivision",
+        "/stats/teams/12467/parivision"
+      ]
+    },
+    {
+      "Date": "17/02/26",
+      "Player team": "FURIA (14)",
+      "Opponent": "PARIVISION (16)",
+      "T1": "inf",
+      "T2": "16 - 19",
+      "Map": "-3",
+      "K - D": "0.95",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219541/parivision-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12467/parivision",
+        "/stats/teams/12467/parivision"
+      ]
+    },
+    {
+      "Date": "17/02/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "PARIVISION (14)",
+      "T1": "d2",
+      "T2": "17 - 20",
+      "Map": "-3",
+      "K - D": "0.96",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219528/parivision-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12467/parivision",
+        "/stats/teams/12467/parivision"
+      ]
+    },
+    {
+      "Date": "16/02/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "Falcons (13)",
+      "T1": "anb",
+      "T2": "15 - 16",
+      "Map": "-1",
+      "K - D": "1.17",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219446/falcons-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "16/02/26",
+      "Player team": "FURIA (4)",
+      "Opponent": "Falcons (13)",
+      "T1": "inf",
+      "T2": "7 - 14",
+      "Map": "-7",
+      "K - D": "0.56",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219433/falcons-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "16/02/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "Falcons (14)",
+      "T1": "mrg",
+      "T2": "21 - 15",
+      "Map": "+6",
+      "K - D": "1.16",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219421/furia-vs-falcons?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "15/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "FUT (9)",
+      "T1": "anb",
+      "T2": "11 - 14",
+      "Map": "-3",
+      "K - D": "0.77",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219274/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "15/02/26",
+      "Player team": "FURIA (22)",
+      "Opponent": "FUT (18)",
+      "T1": "ovp",
+      "T2": "29 - 27",
+      "Map": "+2",
+      "K - D": "1.23",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219256/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "15/02/26",
+      "Player team": "FURIA (9)",
+      "Opponent": "FUT (13)",
+      "T1": "mrg",
+      "T2": "9 - 16",
+      "Map": "-7",
+      "K - D": "0.63",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219241/furia-vs-fut?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "14/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "B8 (10)",
+      "T1": "inf",
+      "T2": "6 - 14",
+      "Map": "-8",
+      "K - D": "0.61",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219191/b8-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11241/b8",
+        "/stats/teams/11241/b8"
+      ]
+    },
+    {
+      "Date": "14/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "B8 (11)",
+      "T1": "mrg",
+      "T2": "13 - 13",
+      "Map": "0",
+      "K - D": "0.90",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/219173/furia-vs-b8?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11241/b8",
+        "/stats/teams/11241/b8"
+      ]
+    },
+    {
+      "Date": "08/02/26",
+      "Player team": "FURIA (10)",
+      "Opponent": "Vitality (13)",
+      "T1": "ovp",
+      "T2": "15 - 17",
+      "Map": "-2",
+      "K - D": "1.03",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218584/furia-vs-vitality?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "08/02/26",
+      "Player team": "FURIA (2)",
+      "Opponent": "Vitality (13)",
+      "T1": "nuke",
+      "T2": "6 - 14",
+      "Map": "-8",
+      "K - D": "0.61",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218576/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "08/02/26",
+      "Player team": "FURIA (8)",
+      "Opponent": "Vitality (13)",
+      "T1": "inf",
+      "T2": "10 - 14",
+      "Map": "-4",
+      "K - D": "0.73",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218565/furia-vs-vitality?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "08/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (11)",
+      "T1": "mrg",
+      "T2": "15 - 17",
+      "Map": "-2",
+      "K - D": "1.02",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218557/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "07/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Spirit (7)",
+      "T1": "nuke",
+      "T2": "10 - 14",
+      "Map": "-4",
+      "K - D": "1.04",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218504/spirit-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7020/spirit",
+        "/stats/teams/7020/spirit"
+      ]
+    },
+    {
+      "Date": "07/02/26",
+      "Player team": "FURIA (8)",
+      "Opponent": "Spirit (13)",
+      "T1": "d2",
+      "T2": "8 - 19",
+      "Map": "-11",
+      "K - D": "0.66",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218499/spirit-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7020/spirit",
+        "/stats/teams/7020/spirit"
+      ]
+    },
+    {
+      "Date": "07/02/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "Spirit (13)",
+      "T1": "mrg",
+      "T2": "24 - 19",
+      "Map": "+5",
+      "K - D": "1.19",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218494/spirit-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7020/spirit",
+        "/stats/teams/7020/spirit"
+      ]
+    },
+    {
+      "Date": "06/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Aurora (4)",
+      "T1": "mrg",
+      "T2": "11 - 7",
+      "Map": "+4",
+      "K - D": "1.07",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218399/aurora-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11861/aurora",
+        "/stats/teams/11861/aurora"
+      ]
+    },
+    {
+      "Date": "06/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Aurora (7)",
+      "T1": "d2",
+      "T2": "18 - 10",
+      "Map": "+8",
+      "K - D": "1.22",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218394/aurora-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11861/aurora",
+        "/stats/teams/11861/aurora"
+      ]
+    },
+    {
+      "Date": "03/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Astralis (9)",
+      "T1": "nuke",
+      "T2": "13 - 9",
+      "Map": "+4",
+      "K - D": "1.21",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218211/furia-vs-astralis?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6665/astralis",
+        "/stats/teams/6665/astralis"
+      ]
+    },
+    {
+      "Date": "03/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Astralis (11)",
+      "T1": "mrg",
+      "T2": "13 - 13",
+      "Map": "0",
+      "K - D": "1.02",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218203/astralis-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6665/astralis",
+        "/stats/teams/6665/astralis"
+      ]
+    },
+    {
+      "Date": "03/02/26",
+      "Player team": "FURIA (8)",
+      "Opponent": "Astralis (13)",
+      "T1": "ovp",
+      "T2": "5 - 19",
+      "Map": "-14",
+      "K - D": "0.47",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218196/furia-vs-astralis?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6665/astralis",
+        "/stats/teams/6665/astralis"
+      ]
+    },
+    {
+      "Date": "02/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Natus Vincere (6)",
+      "T1": "d2",
+      "T2": "15 - 11",
+      "Map": "+4",
+      "K - D": "1.01",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218145/natus-vincere-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "02/02/26",
+      "Player team": "FURIA (9)",
+      "Opponent": "Natus Vincere (13)",
+      "T1": "inf",
+      "T2": "8 - 17",
+      "Map": "-9",
+      "K - D": "0.62",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218138/natus-vincere-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "02/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "Natus Vincere (7)",
+      "T1": "mrg",
+      "T2": "8 - 11",
+      "Map": "-3",
+      "K - D": "0.62",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218133/furia-vs-natus-vincere?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "01/02/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "The MongolZ (2)",
+      "T1": "nuke",
+      "T2": "8 - 7",
+      "Map": "+1",
+      "K - D": "0.95",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218056/furia-vs-the-mongolz?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6248/the-mongolz",
+        "/stats/teams/6248/the-mongolz"
+      ]
+    },
+    {
+      "Date": "01/02/26",
+      "Player team": "FURIA (16)",
+      "Opponent": "The MongolZ (12)",
+      "T1": "inf",
+      "T2": "24 - 17",
+      "Map": "+7",
+      "K - D": "1.28",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218051/the-mongolz-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6248/the-mongolz",
+        "/stats/teams/6248/the-mongolz"
+      ]
+    },
+    {
+      "Date": "01/02/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "The MongolZ (13)",
+      "T1": "mrg",
+      "T2": "13 - 13",
+      "Map": "0",
+      "K - D": "1.05",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/218042/furia-vs-the-mongolz?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/6248/the-mongolz",
+        "/stats/teams/6248/the-mongolz"
+      ]
+    },
+    {
+      "Date": "31/01/26",
+      "Player team": "FURIA (6)",
+      "Opponent": "FUT (13)",
+      "T1": "d2",
+      "T2": "15 - 17",
+      "Map": "-2",
+      "K - D": "1.00",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217936/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "31/01/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "FUT (13)",
+      "T1": "mrg",
+      "T2": "15 - 18",
+      "Map": "-3",
+      "K - D": "0.91",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217927/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "24/01/26",
+      "Player team": "FURIA (11)",
+      "Opponent": "PARIVISION (13)",
+      "T1": "inf",
+      "T2": "9 - 20",
+      "Map": "-11",
+      "K - D": "0.67",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217449/furia-vs-parivision?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12467/parivision",
+        "/stats/teams/12467/parivision"
+      ]
+    },
+    {
+      "Date": "24/01/26",
+      "Player team": "FURIA (8)",
+      "Opponent": "PARIVISION (13)",
+      "T1": "mrg",
+      "T2": "11 - 15",
+      "Map": "-4",
+      "K - D": "0.96",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217439/furia-vs-parivision?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/12467/parivision",
+        "/stats/teams/12467/parivision"
+      ]
+    },
+    {
+      "Date": "22/01/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "HEROIC (9)",
+      "T1": "nuke",
+      "T2": "18 - 18",
+      "Map": "0",
+      "K - D": "1.27",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217235/heroic-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7175/heroic",
+        "/stats/teams/7175/heroic"
+      ]
+    },
+    {
+      "Date": "22/01/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "HEROIC (2)",
+      "T1": "d2",
+      "T2": "9 - 6",
+      "Map": "+3",
+      "K - D": "1.33",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217229/heroic-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7175/heroic",
+        "/stats/teams/7175/heroic"
+      ]
+    },
+    {
+      "Date": "22/01/26",
+      "Player team": "FURIA (3)",
+      "Opponent": "HEROIC (13)",
+      "T1": "mrg",
+      "T2": "10 - 13",
+      "Map": "-3",
+      "K - D": "0.79",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/217220/furia-vs-heroic?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/7175/heroic",
+        "/stats/teams/7175/heroic"
+      ]
+    },
+    {
+      "Date": "18/01/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "FUT (11)",
+      "T1": "d2",
+      "T2": "15 - 16",
+      "Map": "-1",
+      "K - D": "0.98",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/216889/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "18/01/26",
+      "Player team": "FURIA (5)",
+      "Opponent": "FUT (13)",
+      "T1": "ovp",
+      "T2": "6 - 14",
+      "Map": "-8",
+      "K - D": "0.68",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/216884/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "18/01/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "FUT (10)",
+      "T1": "anb",
+      "T2": "17 - 15",
+      "Map": "+2",
+      "K - D": "1.15",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/216879/fut-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/13286/fut",
+        "/stats/teams/13286/fut"
+      ]
+    },
+    {
+      "Date": "16/01/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "9INE (9)",
+      "T1": "inf",
+      "T2": "14 - 11",
+      "Map": "+3",
+      "K - D": "0.92",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/216646/9ine-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/10278/9ine",
+        "/stats/teams/10278/9ine"
+      ]
+    },
+    {
+      "Date": "16/01/26",
+      "Player team": "FURIA (13)",
+      "Opponent": "9INE (8)",
+      "T1": "anb",
+      "T2": "6 - 15",
+      "Map": "-9",
+      "K - D": "0.69",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/216636/9ine-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/10278/9ine",
+        "/stats/teams/10278/9ine"
+      ]
+    },
+    {
+      "Date": "12/12/25",
+      "Player team": "FURIA (3)",
+      "Opponent": "Natus Vincere (13)",
+      "T1": "trn",
+      "T2": "8 - 13",
+      "Map": "-5",
+      "K - D": "0.52",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/215462/furia-vs-natus-vincere?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "12/12/25",
+      "Player team": "FURIA (16)",
+      "Opponent": "Natus Vincere (13)",
+      "T1": "inf",
+      "T2": "20 - 11",
+      "Map": "+9",
+      "K - D": "1.56",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/215459/natus-vincere-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "12/12/25",
+      "Player team": "FURIA (5)",
+      "Opponent": "Natus Vincere (13)",
+      "T1": "mrg",
+      "T2": "4 - 16",
+      "Map": "-12",
+      "K - D": "0.42",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/215455/furia-vs-natus-vincere?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "05/12/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "G2 (10)",
+      "T1": "ovp",
+      "T2": "10 - 14",
+      "Map": "-4",
+      "K - D": "0.77",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/215094/g2-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/5995/g2",
+        "/stats/teams/5995/g2"
+      ]
+    },
+    {
+      "Date": "05/12/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "G2 (6)",
+      "T1": "inf",
+      "T2": "17 - 13",
+      "Map": "+4",
+      "K - D": "1.33",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/215087/furia-vs-g2?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/5995/g2",
+        "/stats/teams/5995/g2"
+      ]
+    },
+    {
+      "Date": "04/12/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Imperial (5)",
+      "T1": "d2",
+      "T2": "14 - 12",
+      "Map": "+2",
+      "K - D": "1.42",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/215020/imperial-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9455/imperial",
+        "/stats/teams/9455/imperial"
+      ]
+    },
+    {
+      "Date": "04/12/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Natus Vincere (2)",
+      "T1": "nuke",
+      "T2": "11 - 5",
+      "Map": "+6",
+      "K - D": "1.54",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/214997/furia-vs-natus-vincere?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4608/natus-vincere",
+        "/stats/teams/4608/natus-vincere"
+      ]
+    },
+    {
+      "Date": "16/11/25",
+      "Player team": "FURIA (19)",
+      "Opponent": "Falcons (16)",
+      "T1": "mrg",
+      "T2": "23 - 23",
+      "Map": "0",
+      "K - D": "1.03",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213857/furia-vs-falcons?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "16/11/25",
+      "Player team": "FURIA (19)",
+      "Opponent": "Falcons (15)",
+      "T1": "trn",
+      "T2": "16 - 25",
+      "Map": "-9",
+      "K - D": "0.86",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213852/falcons-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "16/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Falcons (9)",
+      "T1": "nuke",
+      "T2": "13 - 12",
+      "Map": "+1",
+      "K - D": "0.85",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213847/furia-vs-falcons?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "16/11/25",
+      "Player team": "FURIA (3)",
+      "Opponent": "Falcons (13)",
+      "T1": "inf",
+      "T2": "3 - 16",
+      "Map": "-13",
+      "K - D": "0.27",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213844/falcons-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/11283/falcons",
+        "/stats/teams/11283/falcons"
+      ]
+    },
+    {
+      "Date": "15/11/25",
+      "Player team": "FURIA (16)",
+      "Opponent": "paiN (12)",
+      "T1": "ovp",
+      "T2": "23 - 22",
+      "Map": "+1",
+      "K - D": "1.20",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213777/pain-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "15/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "paiN (3)",
+      "T1": "nuke",
+      "T2": "8 - 6",
+      "Map": "+2",
+      "K - D": "0.85",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213775/furia-vs-pain?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "13/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (5)",
+      "T1": "inf",
+      "T2": "16 - 9",
+      "Map": "+7",
+      "K - D": "1.47",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213642/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "13/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (16)",
+      "T1": "ovp",
+      "T2": "10 - 19",
+      "Map": "-9",
+      "K - D": "0.70",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213637/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "13/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (11)",
+      "T1": "nuke",
+      "T2": "12 - 13",
+      "Map": "-1",
+      "K - D": "0.93",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213632/furia-vs-vitality?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "12/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "paiN (11)",
+      "T1": "mrg",
+      "T2": "6 - 15",
+      "Map": "-9",
+      "K - D": "0.65",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213538/furia-vs-pain?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "12/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "paiN (6)",
+      "T1": "ovp",
+      "T2": "15 - 11",
+      "Map": "+4",
+      "K - D": "0.98",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213532/pain-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "12/11/25",
+      "Player team": "FURIA (7)",
+      "Opponent": "paiN (13)",
+      "T1": "nuke",
+      "T2": "8 - 16",
+      "Map": "-8",
+      "K - D": "0.57",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213526/furia-vs-pain?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/4773/pain",
+        "/stats/teams/4773/pain"
+      ]
+    },
+    {
+      "Date": "09/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (11)",
+      "T1": "ovp",
+      "T2": "14 - 15",
+      "Map": "-1",
+      "K - D": "1.02",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213294/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "09/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (10)",
+      "T1": "inf",
+      "T2": "13 - 14",
+      "Map": "-1",
+      "K - D": "1.10",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213286/furia-vs-vitality?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    },
+    {
+      "Date": "09/11/25",
+      "Player team": "FURIA (13)",
+      "Opponent": "Vitality (11)",
+      "T1": "anc",
+      "T2": "8 - 15",
+      "Map": "-7",
+      "K - D": "0.72",
+      "+/-": "",
+      "Rating 3.0": "",
+      "_links": [
+        "/stats/matches/mapstatsid/213281/vitality-vs-furia?contextIds=2023&contextTypes=player",
+        "/stats/teams/8297/furia",
+        "/stats/teams/8297/furia",
+        "/stats/teams/9565/vitality",
+        "/stats/teams/9565/vitality"
+      ]
+    }
+  ]
+}

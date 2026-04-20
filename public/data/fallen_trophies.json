@@ -1,0 +1,114 @@
+{
+  "id": "2023",
+  "trophy_count": 18,
+  "trophies": [
+    {
+      "tournament_name": "BLAST Rivals 2025 Season 2",
+      "tournament_img_url": "https://www.hltv.orghttps://img-cdn.hltv.org/eventtrophy/aHlSV7nOTHK0Nmy9v4NaDc.png?ixlib=java-2.1.0&w=200&s=bbcf12e1c633fd0866a45b0224dcc62e",
+      "tournament_url": "https://www.hltv.org/events/7908/blast-rivals-2025-season-2",
+      "tournament_id": "7908"
+    },
+    {
+      "tournament_name": "IEM Chengdu 2025",
+      "tournament_img_url": "https://www.hltv.orghttps://img-cdn.hltv.org/eventtrophy/l00l3KK2uGZm0Wh31vp_Le.png?ixlib=java-2.1.0&w=200&s=02d8ffbf336ea5f92c9c2c43425d0445",
+      "tournament_url": "https://www.hltv.org/events/8041/iem-chengdu-2025",
+      "tournament_id": "8041"
+    },
+    {
+      "tournament_name": "Thunderpick World Championship 2025",
+      "tournament_img_url": "https://www.hltv.orghttps://img-cdn.hltv.org/eventtrophy/qhNXnEiw_pVg2VmcOIOTzu.png?ixlib=java-2.1.0&w=200&s=4595ddf73d4a422c952faa645d3147f6",
+      "tournament_url": "https://www.hltv.org/events/8067/thunderpick-world-championship-2025",
+      "tournament_id": "8067"
+    },
+    {
+      "tournament_name": "FISSURE Playground 2",
+      "tournament_img_url": "https://www.hltv.orghttps://img-cdn.hltv.org/eventtrophy/3L4LhGNGfTcHHjZiAw6XiO.png?ixlib=java-2.1.0&w=200&s=e19bb03917f105481071445f0bbf5d8d",
+      "tournament_url": "https://www.hltv.org/events/8064/fissure-playground-2",
+      "tournament_id": "8064"
+    },
+    {
+      "tournament_name": "Elisa Masters Espoo 2023",
+      "tournament_img_url": "https://www.hltv.orghttps://img-cdn.hltv.org/eventtrophy/YXUTz-Lpcm8MjEgmdjZk7u.png?ixlib=java-2.1.0&w=200&s=35b769e3537ae9f3f7151d60a7981190",
+      "tournament_url": "https://www.hltv.org/events/7250/elisa-masters-espoo-2023",
+      "tournament_id": "7250"
+    },
+    {
+      "tournament_name": "ZOTAC Cup Masters 2018 Grand Finals",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/3603.png",
+      "tournament_url": "https://www.hltv.org/events/3603/zotac-cup-masters-2018-grand-finals",
+      "tournament_id": "3603"
+    },
+    {
+      "tournament_name": "ESL Pro League Season 6 Finals",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/3072.png",
+      "tournament_url": "https://www.hltv.org/events/3072/esl-pro-league-season-6-finals",
+      "tournament_id": "3072"
+    },
+    {
+      "tournament_name": "BLAST Pro Series Copenhagen 2017",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2998.png",
+      "tournament_url": "https://www.hltv.org/events/2998/blast-pro-series-copenhagen-2017",
+      "tournament_id": "2998"
+    },
+    {
+      "tournament_name": "EPICENTER 2017",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/3133.png",
+      "tournament_url": "https://www.hltv.org/events/3133/epicenter-2017",
+      "tournament_id": "3133"
+    },
+    {
+      "tournament_name": "ESL One Cologne 2017",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2635.png",
+      "tournament_url": "https://www.hltv.org/events/2635/esl-one-cologne-2017",
+      "tournament_id": "2635"
+    },
+    {
+      "tournament_name": "ECS Season 3 Finals",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2763.png",
+      "tournament_url": "https://www.hltv.org/events/2763/ecs-season-3-finals",
+      "tournament_id": "2763"
+    },
+    {
+      "tournament_name": "DreamHack Open Summer 2017",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2569.png",
+      "tournament_url": "https://www.hltv.org/events/2569/dreamhack-open-summer-2017",
+      "tournament_id": "2569"
+    },
+    {
+      "tournament_name": "IEM Sydney 2017",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2713.png",
+      "tournament_url": "https://www.hltv.org/events/2713/iem-sydney-2017",
+      "tournament_id": "2713"
+    },
+    {
+      "tournament_name": "cs_summit Spring 2017",
+      "tournament_img_url": "https://www.hltv.orghttps://img-cdn.hltv.org/eventlogo/BBnQhCacJsaKQvw8j2KHZY.png?ixlib=java-2.1.0&w=50&s=311bb953d57ca3f07cb06034de24f8e3",
+      "tournament_url": "https://www.hltv.org/events/2641/cs-summit-spring-2017",
+      "tournament_id": "2641"
+    },
+    {
+      "tournament_name": "ESL One Cologne 2016",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2062.png",
+      "tournament_url": "https://www.hltv.org/events/2062/esl-one-cologne-2016",
+      "tournament_id": "2062"
+    },
+    {
+      "tournament_name": "ESL Pro League Season 3 Finals",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2130.png",
+      "tournament_url": "https://www.hltv.org/events/2130/esl-pro-league-season-3-finals",
+      "tournament_id": "2130"
+    },
+    {
+      "tournament_name": "DreamHack Austin 2016",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/1954.png",
+      "tournament_url": "https://www.hltv.org/events/1954/dreamhack-austin-2016",
+      "tournament_id": "1954"
+    },
+    {
+      "tournament_name": "MLG Columbus 2016",
+      "tournament_img_url": "https://www.hltv.org/img/static/event/trophies/2027.png",
+      "tournament_url": "https://www.hltv.org/events/2027/mlg-columbus-2016",
+      "tournament_id": "2027"
+    }
+  ]
+}

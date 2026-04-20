@@ -1,0 +1,19 @@
+{
+  "id": "2023",
+  "stats": {
+    "total_kills": 38011.0,
+    "headshot_percentage": 32.8,
+    "total_deaths": 34439.0,
+    "kd_ratio": 1.1,
+    "damage_per_round": 69.7,
+    "grenade_dmg_per_round": 3.5,
+    "maps_played": 2235,
+    "rounds_played": 56396,
+    "kills_per_round": 0.67,
+    "assists_per_round": 0.11,
+    "deaths_per_round": 0.61,
+    "saved_by_teammate_per_round": 0.09,
+    "saved_teammates_per_round": 0.08,
+    "rating_1_0": null
+  }
+}

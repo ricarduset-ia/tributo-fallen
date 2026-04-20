@@ -1,0 +1,48 @@
+{
+  "id": "2023",
+  "personal_achievements": {
+    "major_winner_count": "2",
+    "major_mvp_count": null,
+    "mvp_winner_count": "4",
+    "evp_count": 18,
+    "top_20_count": 2,
+    "mvp_winner": [
+      "ZOTAC Cup Masters 2018 Grand Finals",
+      "BLAST Pro Series Copenhagen 2017",
+      "ESL One Cologne 2017",
+      "DreamHack Austin 2016"
+    ],
+    "evp_at": [
+      "BLAST Premier Spring 2020 Americas Finals",
+      "IEM Chicago 2019",
+      "ECS Season 6 Finals",
+      "FACEIT Major 2018",
+      "ESL Pro League Season 6 Finals",
+      "EPICENTER 2017",
+      "ECS Season 3 Finals",
+      "ESL Pro League Season 5 Finals",
+      "IEM Sydney 2017",
+      "cs_summit Spring 2017",
+      "IEM Oakland 2016",
+      "EPICENTER: Moscow",
+      "ESL One Cologne 2016",
+      "ESL Pro League Season 3 Finals",
+      "MLG Columbus 2016",
+      "IEM Katowice 2016",
+      "DreamHack ZOWIE Open Leipzig 2016",
+      "SL i-League StarSeries XIV Finals"
+    ],
+    "top_20": [
+      {
+        "placement": "#2",
+        "year": "2016",
+        "article": "https://www.hltv.org/news/19655/top-20-players-of-2016-fallen-2"
+      },
+      {
+        "placement": "#6",
+        "year": "2017",
+        "article": "https://www.hltv.org/news/22446/top-20-players-of-2017-fallen-6"
+      }
+    ]
+  }
+}

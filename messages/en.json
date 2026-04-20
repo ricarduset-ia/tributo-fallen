@@ -1,0 +1,61 @@
+{
+  "site": {
+    "title": "FalleN — The Professor",
+    "description": "A tribute to Gabriel Toledo's career, the greatest strategist of Brazilian Counter-Strike.",
+    "nav": { "home": "Home", "stats": "Stats", "conquistas": "Achievements", "trajetoria": "Timeline" },
+    "langLabel": "Language"
+  },
+  "home": {
+    "displayName": "THE PROFESSOR",
+    "subhead": "23 years of Counter-Strike. 2 Majors. 18,251 AWP kills.",
+    "countdownLabel": "Days until the last official match",
+    "daysLabel": "days", "hoursLabel": "hours", "minutesLabel": "min", "secondsLabel": "sec",
+    "ctaPrimary": "See the career",
+    "journeyTitle": "The journey",
+    "journeyStat1Value": "8508", "journeyStat1Label": "days playing CS", "journeyStat1Note": "From 2002-12-31 to 2026-04-17",
+    "journeyStat2Value": "$1458938", "journeyStat2Label": "in prize money", "journeyStat2Note": "Across 20 years of competition",
+    "journeyStat3Value": "40", "journeyStat3Label": "championship titles", "journeyStat3Note": "22 in the 1.6 era + 18 in the modern era",
+    "awpTitle": "The AWP",
+    "awpCopy": "47.9% of his 38,011 kills came with the sniper. The godfather of the Brazilian AWP style.",
+    "awpRank1": "AWP", "awpRank2": "AK-47",
+    "milestonesTitle": "Milestones",
+    "milestone2002": "Starts playing CS (December 31)",
+    "milestone2007": "First competitive title — Brazil Cup",
+    "milestone2016": "MLG Columbus Major champion with Luminosity",
+    "milestone2023": "Joins FURIA",
+    "milestone2026": "Last official match (December 20)",
+    "ctaExplore": "Explore", "ctaStats": "Stats", "ctaTrajetoria": "Timeline", "ctaConquistas": "Achievements"
+  },
+  "stats": {
+    "title": "The stats", "subtitle": "20 years of data. Filter however you like.",
+    "filterTitle": "Rating by year and map",
+    "yearLabel": "Year", "mapLabel": "Map", "ratingLabel": "Rating 1.0",
+    "mapsPlayed": "Maps played", "kdRatio": "K/D", "kpr": "Kills per round", "hsPercent": "Headshot %",
+    "noData": "No data for this combination",
+    "trendTitle": "Career rating", "trendSubtitle": "Rating 1.0 year by year",
+    "trendAnnotationPeak": "Peak — MLG Columbus", "trendAnnotationFuria": "FURIA debut",
+    "weaponsTitle": "Favorite weapons", "weaponsSubtitle": "Top 10 by kills across the modern career",
+    "sidesTitle": "T-side vs CT-side", "sidesSubtitle": "The attacker and the defender",
+    "sideT": "T-side", "sideCT": "CT-side"
+  },
+  "conquistas": {
+    "title": "Achievements", "subtitle": "40 titles. 2 Majors. A place in history.",
+    "majorsTitle": "The two Majors",
+    "major2016aTitle": "MLG Columbus 2016", "major2016aTeam": "Luminosity Gaming", "major2016aDate": "April 2016",
+    "major2016bTitle": "ESL One Cologne 2016", "major2016bTeam": "SK Gaming", "major2016bDate": "July 2016",
+    "trophiesTitle": "All trophies (modern era)",
+    "mvpTitle": "MVPs (4)", "evpTitle": "EVPs (18)",
+    "top20Title": "HLTV Top 20 Players", "top20Year": "Year", "top20Placement": "Placement",
+    "readArticle": "Read article"
+  },
+  "trajetoria": {
+    "title": "The journey", "subtitle": "35 teams, 20 years, 4 versions of Counter-Strike.",
+    "era16": "CS 1.6 (2005 – 2013)", "eraSource": "CS: Source (2008 – 2009)",
+    "eraGo": "CS:GO (2012 – 2023)", "eraCs2": "CS2 (2023 – 2026)",
+    "present": "Present", "duration": "Duration", "events": "Era highlights"
+  },
+  "footer": {
+    "credit": "Fan-made tribute. Data: HLTV.org + Liquipedia.",
+    "source": "Sources", "retirement": "Official retirement: December 20, 2026"
+  }
+}

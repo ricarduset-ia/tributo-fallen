@@ -1,0 +1,310 @@
+{
+  "source": "stats/players/weapon/2023/fallen",
+  "weapons": [
+    {
+      "rank": 1,
+      "weapon": "awp",
+      "kills": 18251
+    },
+    {
+      "rank": 2,
+      "weapon": "ak47",
+      "kills": 4767
+    },
+    {
+      "rank": 3,
+      "weapon": "usp_silencer",
+      "kills": 1582
+    },
+    {
+      "rank": 4,
+      "weapon": "galilar",
+      "kills": 1528
+    },
+    {
+      "rank": 5,
+      "weapon": "m4a1",
+      "kills": 1468
+    },
+    {
+      "rank": 6,
+      "weapon": "m4a1_silencer",
+      "kills": 1342
+    },
+    {
+      "rank": 7,
+      "weapon": "glock",
+      "kills": 1245
+    },
+    {
+      "rank": 8,
+      "weapon": "ssg08",
+      "kills": 1103
+    },
+    {
+      "rank": 9,
+      "weapon": "p250",
+      "kills": 759
+    },
+    {
+      "rank": 10,
+      "weapon": "tec9",
+      "kills": 695
+    },
+    {
+      "rank": 11,
+      "weapon": "deagle",
+      "kills": 694
+    },
+    {
+      "rank": 12,
+      "weapon": "mp9",
+      "kills": 691
+    },
+    {
+      "rank": 13,
+      "weapon": "ump45",
+      "kills": 667
+    },
+    {
+      "rank": 14,
+      "weapon": "hkp2000",
+      "kills": 549
+    },
+    {
+      "rank": 15,
+      "weapon": "famas",
+      "kills": 467
+    },
+    {
+      "rank": 16,
+      "weapon": "mac10",
+      "kills": 373
+    },
+    {
+      "rank": 17,
+      "weapon": "sg556",
+      "kills": 306
+    },
+    {
+      "rank": 18,
+      "weapon": "cz75a",
+      "kills": 277
+    },
+    {
+      "rank": 19,
+      "weapon": "inferno",
+      "kills": 264
+    },
+    {
+      "rank": 20,
+      "weapon": "hegrenade",
+      "kills": 203
+    },
+    {
+      "rank": 21,
+      "weapon": "fiveseven",
+      "kills": 180
+    },
+    {
+      "rank": 22,
+      "weapon": "mp7",
+      "kills": 168
+    },
+    {
+      "rank": 23,
+      "weapon": "elite",
+      "kills": 143
+    },
+    {
+      "rank": 24,
+      "weapon": "mag7",
+      "kills": 141
+    },
+    {
+      "rank": 25,
+      "weapon": "aug",
+      "kills": 93
+    },
+    {
+      "rank": 26,
+      "weapon": "knife_butterfly",
+      "kills": 14
+    },
+    {
+      "rank": 27,
+      "weapon": "scar20",
+      "kills": 10
+    },
+    {
+      "rank": 28,
+      "weapon": "p90",
+      "kills": 9
+    },
+    {
+      "rank": 29,
+      "weapon": "gallil",
+      "kills": 8
+    },
+    {
+      "rank": 30,
+      "weapon": "mp5sd",
+      "kills": 5
+    },
+    {
+      "rank": 31,
+      "weapon": "knife_karambit",
+      "kills": 2
+    },
+    {
+      "rank": 32,
+      "weapon": "xm1014",
+      "kills": 2
+    },
+    {
+      "rank": 33,
+      "weapon": "g3sg1",
+      "kills": 2
+    },
+    {
+      "rank": 34,
+      "weapon": "sawedoff",
+      "kills": 1
+    },
+    {
+      "rank": 35,
+      "weapon": "knife_tactical",
+      "kills": 1
+    },
+    {
+      "rank": 36,
+      "weapon": "nova",
+      "kills": 1
+    },
+    {
+      "rank": 37,
+      "weapon": "molotov",
+      "kills": 0
+    },
+    {
+      "rank": 38,
+      "weapon": "flashbang",
+      "kills": 0
+    },
+    {
+      "rank": 39,
+      "weapon": "knife_push",
+      "kills": 0
+    },
+    {
+      "rank": 40,
+      "weapon": "knife_skeleton",
+      "kills": 0
+    },
+    {
+      "rank": 41,
+      "weapon": "knife_m9_bayonet",
+      "kills": 0
+    },
+    {
+      "rank": 42,
+      "weapon": "usp_silencer_off",
+      "kills": 0
+    },
+    {
+      "rank": 43,
+      "weapon": "bizon",
+      "kills": 0
+    },
+    {
+      "rank": 44,
+      "weapon": "revolver",
+      "kills": 0
+    },
+    {
+      "rank": 45,
+      "weapon": "knife_outdoor",
+      "kills": 0
+    },
+    {
+      "rank": 46,
+      "weapon": "knife_stiletto",
+      "kills": 0
+    },
+    {
+      "rank": 47,
+      "weapon": "knife",
+      "kills": 0
+    },
+    {
+      "rank": 48,
+      "weapon": "knife_flip",
+      "kills": 0
+    },
+    {
+      "rank": 49,
+      "weapon": "knife_gut",
+      "kills": 0
+    },
+    {
+      "rank": 50,
+      "weapon": "knife_widowmaker",
+      "kills": 0
+    },
+    {
+      "rank": 51,
+      "weapon": "knife_t",
+      "kills": 0
+    },
+    {
+      "rank": 52,
+      "weapon": "taser",
+      "kills": 0
+    },
+    {
+      "rank": 53,
+      "weapon": "knife_survival_bowie",
+      "kills": 0
+    },
+    {
+      "rank": 54,
+      "weapon": "knife_falchion",
+      "kills": 0
+    },
+    {
+      "rank": 55,
+      "weapon": "world",
+      "kills": 0
+    },
+    {
+      "rank": 56,
+      "weapon": "knife_default_ct",
+      "kills": 0
+    },
+    {
+      "rank": 57,
+      "weapon": "knife_kukri",
+      "kills": 0
+    },
+    {
+      "rank": 58,
+      "weapon": "bayonet",
+      "kills": 0
+    },
+    {
+      "rank": 59,
+      "weapon": "negev",
+      "kills": 0
+    },
+    {
+      "rank": 60,
+      "weapon": "knife_ursus",
+      "kills": 0
+    },
+    {
+      "rank": 61,
+      "weapon": "knife_css",
+      "kills": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2023",
+  "stats": {
+    "firepower": {
+      "kills_per_round": 0.67,
+      "kills_per_round_win": 0.9,
+      "damage_per_round": 69.7,
+      "damage_per_round_win": 79.4,
+      "rounds_with_a_kill_percentage": 46.2,
+      "rating_1_0": 1.04,
+      "rounds_with_multi_kill_percentage": 16.2,
+      "pistol_round_rating": 0.92
+    },
+    "entrying": {
+      "saved_by_teammate_per_round": 0.09,
+      "traded_deaths_per_round": 0.11,
+      "traded_deaths_percentage": 17.4,
+      "opening_deaths_traded_percentage": 19.2,
+      "assists_per_round": 0.11,
+      "support_rounds_percentage": 19.5
+    },
+    "trading": {
+      "saved_teammate_per_round": 0.08,
+      "trade_kills_per_round": 0.11,
+      "trade_kills_percentage": 17.0,
+      "assisted_kills_percentage": 20.0,
+      "damage_per_kill": 93.0
+    },
+    "opening": {
+      "opening_kills_per_round": 0.11,
+      "opening_deaths_per_round": 0.08,
+      "opening_attempts_percentage": 19.4,
+      "opening_success_percentage": 57.4,
+      "win_after_opening_kill_percentage": 73.5,
+      "attacks_per_round": 2.02
+    },
+    "clutching": {
+      "clutch_points_per_round": 0.02,
+      "last_alive_percentage": 9.3,
+      "1v1_win_percentage": 59.0,
+      "time_alive_per_round": 63,
+      "saves_per_round_loss_percentage": 7.3
+    },
+    "sniping": {
+      "sniper_kills_per_round": 0.34,
+      "sniper_kills_percentage": 50.9,
+      "rounds_with_sniper_kills_percentage": 25.5,
+      "sniper_multi_kill_rounds": 0.09,
+      "sniper_opening_kills_per_round": 0.08
+    },
+    "utility": {
+      "utility_damage_per_round": 3.5,
+      "utility_kills_per_100_rounds": 0.83,
+      "flashes_thrown_per_round": 0.94,
+      "flash_assists_per_round": 0.08,
+      "time_opponent_flashed_per_round": 2.25
+    }
+  }
+}

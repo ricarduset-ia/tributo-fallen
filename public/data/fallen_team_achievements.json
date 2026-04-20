@@ -1,0 +1,870 @@
+{
+  "id": "2023",
+  "achievement_count": 72,
+  "achievements": [
+    {
+      "placement": "1/4 final",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "8042",
+        "name": "StarLadder Budapest Major 2025"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=8042"
+    },
+    {
+      "placement": "1/4 final",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7902",
+        "name": "BLAST.tv Austin Major 2025"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7902"
+    },
+    {
+      "placement": "Legends",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7524",
+        "name": "Perfect World Shanghai Major 2024"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7524"
+    },
+    {
+      "placement": "Legends",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7148",
+        "name": "PGL CS2 Major Copenhagen 2024"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7148"
+    },
+    {
+      "placement": "Challengers",
+      "team": {
+        "id": "9455",
+        "name": "Imperial"
+      },
+      "tournament": {
+        "id": "6588",
+        "name": "IEM Rio Major 2022 Challengers Stage"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=6588"
+    },
+    {
+      "placement": "Legends",
+      "team": {
+        "id": "9455",
+        "name": "Imperial"
+      },
+      "tournament": {
+        "id": "6372",
+        "name": "PGL Major Antwerp 2022"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=6372"
+    },
+    {
+      "placement": "Legends",
+      "team": {
+        "id": "5973",
+        "name": "Liquid"
+      },
+      "tournament": {
+        "id": "4866",
+        "name": "PGL Major Stockholm 2021"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4866"
+    },
+    {
+      "placement": "Legends",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4443",
+        "name": "StarLadder Major Berlin 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4443"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3883",
+        "name": "IEM Katowice 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3883"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3564",
+        "name": "FACEIT Major 2018"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3564"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3247",
+        "name": "ELEAGUE Major 2018"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3247"
+    },
+    {
+      "placement": "1/4 final",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2720",
+        "name": "PGL Major Krakow 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2720"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2471",
+        "name": "ELEAGUE Major 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2471"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2062",
+        "name": "ESL One Cologne 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2062"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "2027",
+        "name": "MLG Columbus 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2027"
+    },
+    {
+      "placement": "1/4 final",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "1617",
+        "name": "DreamHack Open Cluj-Napoca 2015"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1617"
+    },
+    {
+      "placement": "1/4 final",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "1666",
+        "name": "ESL One Cologne 2015"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1666"
+    },
+    {
+      "placement": "1/4 final",
+      "team": {
+        "id": "6033",
+        "name": "Keyd Stars"
+      },
+      "tournament": {
+        "id": "1611",
+        "name": "ESL One Katowice 2015"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1611"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "8240",
+        "name": "IEM Kraków 2026"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=8240"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "8246",
+        "name": "BLAST Bounty 2026 Season 1 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=8246"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7908",
+        "name": "BLAST Rivals 2025 Season 2"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7908"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "8041",
+        "name": "IEM Chengdu 2025"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=8041"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "8067",
+        "name": "Thunderpick World Championship 2025"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=8067"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "8064",
+        "name": "FISSURE Playground 2"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=8064"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7912",
+        "name": "BLAST Open London 2025 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7912"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7439",
+        "name": "IEM Rio 2024"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7439"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7475",
+        "name": "YaLLa Compass 2024"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7475"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "8297",
+        "name": "FURIA"
+      },
+      "tournament": {
+        "id": "7250",
+        "name": "Elisa Masters Espoo 2023"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=7250"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9455",
+        "name": "Imperial"
+      },
+      "tournament": {
+        "id": "6972",
+        "name": "BLAST Premier Spring Final 2023"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=6972"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4680",
+        "name": "CS:GO Asia Championships 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4680"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4828",
+        "name": "V4 Future Sports Festival 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4828"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4574",
+        "name": "IEM Chicago 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4574"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4236",
+        "name": "IEM Sydney 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4236"
+    },
+    {
+      "placement": "3rd",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4327",
+        "name": "BLAST Pro Series Miami 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4327"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3883",
+        "name": "IEM Katowice 2019"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3883"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3376",
+        "name": "ESL Pro League Season 8 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3376"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "4083",
+        "name": "ECS Season 6 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=4083"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3647",
+        "name": "BLAST Pro Series Istanbul 2018"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3647"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3564",
+        "name": "FACEIT Major 2018"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3564"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "9215",
+        "name": "MIBR"
+      },
+      "tournament": {
+        "id": "3603",
+        "name": "ZOTAC Cup Masters 2018 Grand Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3603"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3649",
+        "name": "ESL One Belo Horizonte 2018"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3649"
+    },
+    {
+      "placement": "3rd",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3454",
+        "name": "cs_summit 2"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3454"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3247",
+        "name": "ELEAGUE Major 2018"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3247"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3072",
+        "name": "ESL Pro League Season 6 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3072"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2998",
+        "name": "BLAST Pro Series Copenhagen 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2998"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2956",
+        "name": "IEM Oakland 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2956"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3133",
+        "name": "EPICENTER 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3133"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2636",
+        "name": "ESL One New York 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2636"
+    },
+    {
+      "placement": "3rd",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "3061",
+        "name": "ESG Tour Mykonos 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=3061"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2635",
+        "name": "ESL One Cologne 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2635"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2763",
+        "name": "ECS Season 3 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2763"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2569",
+        "name": "DreamHack Open Summer 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2569"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2557",
+        "name": "ESL Pro League Season 5 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2557"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2713",
+        "name": "IEM Sydney 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2713"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2641",
+        "name": "cs_summit Spring 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2641"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2541",
+        "name": "DreamHack Masters Las Vegas 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2541"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2471",
+        "name": "ELEAGUE Major 2017"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2471"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2367",
+        "name": "ECS Season 2 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2367"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2261",
+        "name": "IEM Oakland 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2261"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2306",
+        "name": "ESL Pro League Season 4 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2306"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2407",
+        "name": "ELEAGUE Season 2"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2407"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2410",
+        "name": "EPICENTER: Moscow"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2410"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2239",
+        "name": "ESL One New York 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2239"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6137",
+        "name": "SK"
+      },
+      "tournament": {
+        "id": "2062",
+        "name": "ESL One Cologne 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2062"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "2248",
+        "name": "ECS Season 1 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2248"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "2130",
+        "name": "ESL Pro League Season 3 Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2130"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "1954",
+        "name": "DreamHack Austin 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1954"
+    },
+    {
+      "placement": "1st",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "2027",
+        "name": "MLG Columbus 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2027"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "2036",
+        "name": "IEM Katowice 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=2036"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "1977",
+        "name": "DreamHack ZOWIE Open Leipzig 2016"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1977"
+    },
+    {
+      "placement": "3-4th",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "1978",
+        "name": "SL i-League StarSeries XIV Finals"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1978"
+    },
+    {
+      "placement": "2nd",
+      "team": {
+        "id": "6290",
+        "name": "Luminosity"
+      },
+      "tournament": {
+        "id": "1615",
+        "name": "FACEIT League 2015 Stage 3 Finals at DH Winter 2015"
+      },
+      "player_stats_url": "https://www.hltv.org//stats/players/2023/fallen?event=1615"
+    }
+  ]
+}

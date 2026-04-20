@@ -1,0 +1,29 @@
+{
+  "source": "stats/players/individual/2023/fallen",
+  "totals": {
+    "Kills": 38011,
+    "Deaths": 34439,
+    "Kill / Death": 1.1,
+    "Kill / Round": 0.67,
+    "Rounds with kills": 26065,
+    "Kill - Death difference": 3572,
+    "Total opening kills": 6262,
+    "Total opening deaths": 4656,
+    "Opening kill ratio": 1.34,
+    "Opening kill rating": 1.08,
+    "Team win percent after first kill": 73.5,
+    "First kill in won rounds": 15.3,
+    "0 kill rounds": 30331,
+    "1 kill rounds": 16908,
+    "2 kill rounds": 6808,
+    "3 kill rounds": 1953,
+    "4 kill rounds": 356,
+    "5 kill rounds": 40,
+    "Rifle kills": 9971,
+    "Sniper kills": 19366,
+    "SMG kills": 1913,
+    "Pistol kills": 6124,
+    "Grenade": 467,
+    "Other": 170
+  }
+}
