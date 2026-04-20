@@ -25,10 +25,4 @@ export const getTeamsTimeline = () => load<TeamsTimelineJSON>("fallen_teams_time
 export const getLiquipediaResults = () => load<LiquipediaResultsJSON>("fallen_liquipedia_results.json");
 export const getIndividualTotals = () => load<IndividualTotalsJSON>("fallen_individual_totals.json");
 
-export const MAPS = [
-  "de_ancient","de_anubis","de_cache","de_cobblestone","de_dust2","de_inferno",
-  "de_mirage","de_nuke","de_overpass","de_season","de_train","de_tuscan","de_vertigo",
-] as const;
-export type MapId = (typeof MAPS)[number];
-
-export const YEARS = Array.from({ length: 15 }, (_, i) => String(2012 + i));
+export { MAPS, YEARS, type MapId } from "./constants";
