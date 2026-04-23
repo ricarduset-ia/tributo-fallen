@@ -1,4 +1,5 @@
 import { Fraunces, Inter_Tight, JetBrains_Mono } from "next/font/google";
+import Script from "next/script";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -6,6 +7,8 @@ import { locales, type Locale } from "@/i18n";
 import { NavHeader } from "@/components/site/NavHeader";
 import { Footer } from "@/components/site/Footer";
 import type { Metadata } from "next";
+
+const GA_ID = "G-FWYXMTYV5M";
 
 const fraunces = Fraunces({ subsets: ["latin"], variable: "--font-fraunces", display: "swap" });
 const inter = Inter_Tight({ subsets: ["latin"], variable: "--font-inter-tight", display: "swap" });
@@ -41,6 +44,15 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={`${fraunces.variable} ${inter.variable} ${jetbrains.variable}`}>
+      <head>
+        <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="afterInteractive" />
+        <Script id="ga-init" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${GA_ID}');`}
+        </Script>
+      </head>
       <body className="min-h-screen bg-fallen-void text-fallen-bone antialiased">
         <NextIntlClientProvider messages={messages}>
           <NavHeader />
