@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { Hero } from "@/components/home/Hero";
 import { StatCard, DaysPlayingCard } from "@/components/home/StatCard";
-import { CTARow } from "@/components/home/CTARow";
 import { RevealOnScroll } from "@/components/site/RevealOnScroll";
 import { NextCountdown } from "@/components/campeonatos/NextCountdown";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -55,8 +54,6 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </div>
         </div>
       </section>
-
-<CTARow />
     </>
   );
 }
