@@ -17,8 +17,8 @@ export async function NavHeader() {
     <header className="sticky top-0 z-40 bg-fallen-void/70 backdrop-blur-md border-b border-fallen-bone/5">
       <div className="mx-auto max-w-7xl px-6 py-4 flex items-center justify-between">
         <Link href={`/${locale}`} className="text-display text-xl" style={{ letterSpacing: "-0.05em" }}>FalleN</Link>
-        <nav className="hidden md:flex gap-8 text-mono text-xs uppercase tracking-widest text-fallen-muted">
-          {links.map((l) => (<Link key={l.href} href={l.href} className="hover:text-fallen-bone transition">{l.label}</Link>))}
+        <nav className="hidden md:flex gap-8 text-mono text-xs uppercase tracking-widest text-fallen-bone">
+          {links.map((l) => (<Link key={l.href} href={l.href} className="hover:text-fallen-gold transition">{l.label}</Link>))}
         </nav>
         <div className="flex items-center gap-4">
           <div className="hidden md:block"><LangSwitcher /></div>
