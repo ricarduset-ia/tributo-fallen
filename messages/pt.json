@@ -24,9 +24,9 @@
     "journeyStat1Value": "8508",
     "journeyStat1Label": "dias jogando CS",
     "journeyStat1Note": "Desde 31/12/2002",
-    "journeyStat2Value": "$1458938",
-    "journeyStat2Label": "em prêmios",
-    "journeyStat2Note": "Em 20 anos de competições",
+    "journeyStat2Value": "18251",
+    "journeyStat2Label": "kills de AWP",
+    "journeyStat2Note": "Era CS:GO/CS2",
     "journeyStat3Value": "47",
     "journeyStat3Label": "títulos de campeão",
     "journeyStat3Note": "21 no CS 1.6 + 8 no CS:Source + 18 na era CS:GO/CS2",
@@ -40,7 +40,7 @@
     "ctaStats": "Estatísticas",
     "ctaTrajetoria": "Trajetória",
     "ctaConquistas": "Conquistas",
-    "ctaCampeonatos": "Ver campeonatos"
+    "ctaCampeonatos": "Próximos campeonatos"
   },
   "stats": {
     "title": "As estatísticas",

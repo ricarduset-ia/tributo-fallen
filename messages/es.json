@@ -13,7 +13,7 @@
     "ctaPrimary": "Ver la carrera",
     "journeyTitle": "El camino",
     "journeyStat1Value": "8508", "journeyStat1Label": "días jugando CS", "journeyStat1Note": "Desde el 31/12/2002",
-    "journeyStat2Value": "$1458938", "journeyStat2Label": "en premios", "journeyStat2Note": "En 20 años de competencia",
+    "journeyStat2Value": "18251", "journeyStat2Label": "kills de AWP", "journeyStat2Note": "Era CS:GO/CS2",
     "journeyStat3Value": "47", "journeyStat3Label": "títulos de campeón", "journeyStat3Note": "21 en CS 1.6 + 8 en CS:Source + 18 en la era CS:GO/CS2",
     "milestonesTitle": "Hitos",
     "milestone2002": "Comienza a jugar CS (31 de diciembre)",
@@ -21,7 +21,7 @@
     "milestone2016": "Campeón del MLG Columbus Major con Luminosity",
     "milestone2023": "Se une a FURIA",
     "milestone2026": "Último partido oficial (20 de diciembre)",
-    "ctaExplore": "Explorar", "ctaStats": "Estadísticas", "ctaTrajetoria": "Trayectoria", "ctaConquistas": "Logros", "ctaCampeonatos": "Ver torneos"
+    "ctaExplore": "Explorar", "ctaStats": "Estadísticas", "ctaTrajetoria": "Trayectoria", "ctaConquistas": "Logros", "ctaCampeonatos": "Próximos torneos"
   },
   "stats": {
     "title": "Las estadísticas", "subtitle": "20 años de datos. Filtra como quieras.",

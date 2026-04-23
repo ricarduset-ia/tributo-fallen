@@ -10,18 +10,18 @@ export async function CTARow() {
     { href: `/${locale}/conquistas`, label: t("ctaConquistas") },
   ];
   return (
-    <section className="py-24">
+    <section className="py-24 border-t border-fallen-bone/5">
       <div className="mx-auto max-w-6xl px-6">
-        <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6">{t("ctaExplore")}</p>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-10">{t("ctaExplore")}</p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
           {links.map((l) => (
             <Link
               key={l.href}
               href={l.href}
-              className="group block border border-fallen-bone/10 p-10 hover:border-fallen-gold transition"
+              className="group flex items-center justify-between border border-fallen-bone/20 px-7 py-5 hover:border-fallen-gold hover:bg-fallen-gold/5 transition"
             >
-              <span className="text-display text-3xl text-fallen-bone group-hover:text-fallen-gold transition">{l.label}</span>
-              <span className="block mt-3 text-mono text-xs uppercase tracking-widest text-fallen-muted group-hover:text-fallen-gold transition">→</span>
+              <span className="text-mono text-sm uppercase tracking-widest text-fallen-bone group-hover:text-fallen-gold transition">{l.label}</span>
+              <span className="text-fallen-muted group-hover:text-fallen-gold group-hover:translate-x-1 transition-all">→</span>
             </Link>
           ))}
         </div>
