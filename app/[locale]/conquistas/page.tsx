@@ -1,6 +1,7 @@
 import { getTrophies, getPersonalAchievements } from "@/lib/data";
 import { MajorCards } from "@/components/conquistas/MajorCards";
 import { TrophyGrid } from "@/components/conquistas/TrophyGrid";
+import { HistoricalTrophies } from "@/components/conquistas/HistoricalTrophies";
 import { MVPEVPLists } from "@/components/conquistas/MVPEVPLists";
 import { Top20Callouts } from "@/components/conquistas/Top20Callouts";
 import { RevealOnScroll } from "@/components/site/RevealOnScroll";
@@ -22,9 +23,10 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
       <MajorCards />
-      <RevealOnScroll><TrophyGrid data={trophies} /></RevealOnScroll>
-      <RevealOnScroll><MVPEVPLists data={pa} /></RevealOnScroll>
       <RevealOnScroll><Top20Callouts data={pa} /></RevealOnScroll>
+      <RevealOnScroll><TrophyGrid data={trophies} /></RevealOnScroll>
+      <RevealOnScroll><HistoricalTrophies /></RevealOnScroll>
+      <RevealOnScroll><MVPEVPLists data={pa} /></RevealOnScroll>
     </>
   );
 }

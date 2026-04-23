@@ -1,6 +1,5 @@
 import { getYearMap, getPerYear, getWeapons, getStatsSides } from "@/lib/data";
-import { YearMapFilter } from "@/components/stats/YearMapFilter";
-import { RatingTrendChart } from "@/components/stats/RatingTrendChart";
+import { YearNav } from "@/components/stats/YearNav";
 import { WeaponsBar } from "@/components/stats/WeaponsBar";
 import { SidesRadar } from "@/components/stats/SidesRadar";
 import { RevealOnScroll } from "@/components/site/RevealOnScroll";
@@ -21,10 +20,10 @@ export default async function StatsPage({ params }: { params: Promise<{ locale: 
         <div className="mx-auto max-w-6xl px-6">
           <h1 className="text-display text-6xl md:text-8xl text-fallen-bone" style={{ letterSpacing: "-0.05em" }}>{t("title")}</h1>
           <p className="mt-4 text-fallen-muted text-lg">{t("subtitle")}</p>
+          <p className="mt-3 text-mono text-xs text-fallen-muted/60">{t("dataNote")}</p>
         </div>
       </section>
-      <RevealOnScroll><YearMapFilter data={ym} /></RevealOnScroll>
-      <RevealOnScroll><RatingTrendChart data={py} /></RevealOnScroll>
+      <RevealOnScroll><YearNav yearMap={ym} perYear={py} /></RevealOnScroll>
       <RevealOnScroll><WeaponsBar data={w} /></RevealOnScroll>
       <RevealOnScroll><SidesRadar data={s} /></RevealOnScroll>
     </>

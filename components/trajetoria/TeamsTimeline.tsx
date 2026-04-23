@@ -3,16 +3,11 @@ import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import type { TeamsTimelineJSON } from "@/lib/types";
 
-function parseStart(s: string): number {
-  const m = s.match(/^(\d{4})/);
-  return m ? Number(m[1]) : 0;
-}
-
-function eraColor(year: number) {
-  if (year < 2012) return { color: "#C9A97A", name: "CS 1.6" };
-  if (year < 2013) return { color: "#B0AFA8", name: "CS:Source" };
-  if (year < 2023) return { color: "#F2A900", name: "CS:GO" };
-  return { color: "#4CE0D2", name: "CS2" };
+function eraColor(game?: string) {
+  if (game === "cs16")     return { color: "#C9A97A", name: "CS 1.6" };
+  if (game === "cssource") return { color: "#B0AFA8", name: "CS:Source" };
+  if (game === "cs2")      return { color: "#4CE0D2", name: "CS2" };
+  return { color: "#F2A900", name: "CS:GO" };
 }
 
 export function TeamsTimeline({ data }: { data: TeamsTimelineJSON }) {
@@ -37,8 +32,7 @@ export function TeamsTimeline({ data }: { data: TeamsTimelineJSON }) {
           />
           <ul className="space-y-10">
             {entries.map((e, i) => {
-              const y = parseStart(e.start);
-              const era = eraColor(y);
+              const era = eraColor(e.game);
               return (
                 <motion.li
                   key={`${e.start}-${e.team}`}

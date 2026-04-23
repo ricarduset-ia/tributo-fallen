@@ -2,60 +2,73 @@
   "site": {
     "title": "FalleN — El Profesor",
     "description": "Un tributo a la carrera de Gabriel Toledo, el mayor estratega del Counter-Strike brasileño.",
-    "nav": { "home": "Inicio", "stats": "Estadísticas", "conquistas": "Logros", "trajetoria": "Trayectoria" },
+    "nav": { "home": "Inicio", "stats": "Estadísticas", "conquistas": "Logros", "trajetoria": "Trayectoria", "campeonatos": "Torneos" },
     "langLabel": "Idioma"
   },
   "home": {
     "displayName": "EL PROFESOR",
-    "subhead": "23 años jugando Counter-Strike. 2 Majors. 18.251 kills de AWP.",
-    "countdownLabel": "Días hasta el último partido oficial",
+    "subhead": "23 años jugando Counter-Strike. 2 Majors. Un lugar en la historia.",
+    "countdownLabel": "Días hasta el /quit de los servidores",
     "daysLabel": "días", "hoursLabel": "horas", "minutesLabel": "min", "secondsLabel": "seg",
     "ctaPrimary": "Ver la carrera",
     "journeyTitle": "El camino",
-    "journeyStat1Value": "8508", "journeyStat1Label": "días jugando CS", "journeyStat1Note": "Del 31/12/2002 al 17/04/2026",
+    "journeyStat1Value": "8508", "journeyStat1Label": "días jugando CS", "journeyStat1Note": "Desde el 31/12/2002",
     "journeyStat2Value": "$1458938", "journeyStat2Label": "en premios", "journeyStat2Note": "En 20 años de competencia",
-    "journeyStat3Value": "40", "journeyStat3Label": "títulos de campeón", "journeyStat3Note": "22 en la era 1.6 + 18 en la era moderna",
-    "awpTitle": "La AWP",
-    "awpCopy": "47,9% de sus 38.011 kills vinieron con el rifle de francotirador. El padrino del estilo brasileño con la AWP.",
-    "awpRank1": "AWP", "awpRank2": "AK-47",
+    "journeyStat3Value": "47", "journeyStat3Label": "títulos de campeón", "journeyStat3Note": "21 en CS 1.6 + 8 en CS:Source + 18 en la era CS:GO/CS2",
     "milestonesTitle": "Hitos",
     "milestone2002": "Comienza a jugar CS (31 de diciembre)",
     "milestone2007": "Primer título competitivo — Brazil Cup",
     "milestone2016": "Campeón del MLG Columbus Major con Luminosity",
     "milestone2023": "Se une a FURIA",
     "milestone2026": "Último partido oficial (20 de diciembre)",
-    "ctaExplore": "Explorar", "ctaStats": "Estadísticas", "ctaTrajetoria": "Trayectoria", "ctaConquistas": "Logros"
+    "ctaExplore": "Explorar", "ctaStats": "Estadísticas", "ctaTrajetoria": "Trayectoria", "ctaConquistas": "Logros", "ctaCampeonatos": "Ver torneos"
   },
   "stats": {
     "title": "Las estadísticas", "subtitle": "20 años de datos. Filtra como quieras.",
+    "dataNote": "Los datos no se actualizan automáticamente. Última actualización: 23/04/2026.",
     "filterTitle": "Rating por año y mapa",
+    "statsEraNote": "Estadísticas de la era CS:GO/CS2 — los datos de la era 1.6 no están disponibles en HLTV",
     "yearLabel": "Año", "mapLabel": "Mapa", "ratingLabel": "Rating 1.0",
-    "mapsPlayed": "Mapas jugados", "kdRatio": "K/D", "kpr": "Kills por ronda", "hsPercent": "Headshot %",
+    "mapsPlayed": "Mapas jugados",
+    "dmgRound": "Daño/Round", "kdRatio": "K/D", "kpr": "Kills por ronda", "hsPercent": "Headshot %",
     "noData": "Sin datos para esta combinación",
     "trendTitle": "Carrera en rating", "trendSubtitle": "Rating 1.0 año tras año",
     "trendAnnotationPeak": "Pico — MLG Columbus", "trendAnnotationFuria": "Debut FURIA",
-    "weaponsTitle": "Armas favoritas", "weaponsSubtitle": "Top 10 por kills en la era moderna",
+    "weaponsTitle": "Armas — carrera completa", "weaponsSubtitle": "Top 10 por kills acumulados en toda la era CS:GO/CS2",
     "sidesTitle": "T-side × CT-side", "sidesSubtitle": "El atacante y el defensor",
     "sideT": "Lado T", "sideCT": "Lado CT"
   },
   "conquistas": {
-    "title": "Los logros", "subtitle": "40 títulos. 2 Majors. Un lugar en la historia.",
+    "title": "Los logros", "subtitle": "47 títulos. 2 Majors. Un lugar en la historia.",
     "majorsTitle": "Los dos Majors",
     "major2016aTitle": "MLG Columbus 2016", "major2016aTeam": "Luminosity Gaming", "major2016aDate": "Abril de 2016",
     "major2016bTitle": "ESL One Cologne 2016", "major2016bTeam": "SK Gaming", "major2016bDate": "Julio de 2016",
-    "trophiesTitle": "Todos los trofeos (era moderna)",
-    "mvpTitle": "MVPs (4)", "evpTitle": "EVPs (18)",
+    "historicalTitle": "Títulos históricos (CS 1.6 y CS:Source)",
+    "trophiesTitle": "Todos los trofeos (era CS:GO/CS2)",
+    "mvpTitle": "MVPs (4)", "evpTitle": "EVPs (18)", "evpDesc": "Event Valuable Player — mejor jugador del torneo según HLTV, independientemente del resultado del equipo",
     "top20Title": "HLTV Top 20 Players", "top20Year": "Año", "top20Placement": "Posición",
     "readArticle": "Leer artículo"
   },
   "trajetoria": {
-    "title": "La trayectoria", "subtitle": "35 equipos, 20 años, 4 versiones de Counter-Strike.",
+    "title": "La trayectoria", "subtitle": "25 equipos, 20 años, 4 versiones de Counter-Strike.",
     "era16": "CS 1.6 (2005 – 2013)", "eraSource": "CS: Source (2008 – 2009)",
     "eraGo": "CS:GO (2012 – 2023)", "eraCs2": "CS2 (2023 – 2026)",
     "present": "Presente", "duration": "Duración", "events": "Destacados de la era"
   },
+  "campeonatos": {
+    "title": "Próximos torneos",
+    "subtitle": "Los torneos que FalleN aún puede jugar con FURIA en 2026.",
+    "nextLabel": "Próximo torneo — days to go",
+    "nextBadge": "Próximo",
+    "listTitle": "Calendario 2026",
+    "daysLabel": "días",
+    "hoursLabel": "horas",
+    "minutesLabel": "min",
+    "secondsLabel": "seg",
+    "sourceNote": "Información obtenida en"
+  },
   "footer": {
     "credit": "Tributo hecho por fans. Datos: HLTV.org + Liquipedia.",
-    "source": "Fuentes", "retirement": "Retiro oficial: 20 de diciembre de 2026"
+    "source": "Fuentes", "retirement": "/quit: 20 de diciembre de 2026"
   }
 }

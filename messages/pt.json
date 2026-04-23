@@ -6,14 +6,15 @@
       "home": "Início",
       "stats": "Estatísticas",
       "conquistas": "Conquistas",
-      "trajetoria": "Trajetória"
+      "trajetoria": "Trajetória",
+      "campeonatos": "Campeonatos"
     },
     "langLabel": "Idioma"
   },
   "home": {
     "displayName": "O PROFESSOR",
-    "subhead": "23 anos jogando Counter-Strike. 2 Majors. 18.251 AWP kills.",
-    "countdownLabel": "Dias até o último jogo oficial",
+    "subhead": "23 anos jogando Counter-Strike. 2 Majors. Um lugar na história.",
+    "countdownLabel": "Dias até o /quit dos servidores",
     "daysLabel": "dias",
     "hoursLabel": "horas",
     "minutesLabel": "min",
@@ -22,17 +23,13 @@
     "journeyTitle": "A jornada",
     "journeyStat1Value": "8508",
     "journeyStat1Label": "dias jogando CS",
-    "journeyStat1Note": "De 31/12/2002 a 17/04/2026",
+    "journeyStat1Note": "Desde 31/12/2002",
     "journeyStat2Value": "$1458938",
     "journeyStat2Label": "em prêmios",
     "journeyStat2Note": "Em 20 anos de competições",
-    "journeyStat3Value": "40",
+    "journeyStat3Value": "47",
     "journeyStat3Label": "títulos de campeão",
-    "journeyStat3Note": "22 na era 1.6 + 18 na era moderna",
-    "awpTitle": "A AWP",
-    "awpCopy": "47,9% dos seus 38.011 kills foram de sniper. O padrinho do estilo brasileiro com a AWP.",
-    "awpRank1": "AWP",
-    "awpRank2": "AK-47",
+    "journeyStat3Note": "21 no CS 1.6 + 8 no CS:Source + 18 na era CS:GO/CS2",
     "milestonesTitle": "Marcos",
     "milestone2002": "Começa a jogar CS (31 de dezembro)",
     "milestone2007": "Primeiro título competitivo — Brazil Cup",
@@ -42,16 +39,20 @@
     "ctaExplore": "Explorar",
     "ctaStats": "Estatísticas",
     "ctaTrajetoria": "Trajetória",
-    "ctaConquistas": "Conquistas"
+    "ctaConquistas": "Conquistas",
+    "ctaCampeonatos": "Ver campeonatos"
   },
   "stats": {
     "title": "As estatísticas",
     "subtitle": "20 anos de dados. Filtre como quiser.",
+    "dataNote": "Os dados não são atualizados automaticamente. Última atualização: 23/04/2026.",
     "filterTitle": "Rating por ano e mapa",
+    "statsEraNote": "Estatísticas da era CS:GO/CS2 — dados da era 1.6 não estão disponíveis no HLTV",
     "yearLabel": "Ano",
     "mapLabel": "Mapa",
     "ratingLabel": "Rating 1.0",
     "mapsPlayed": "Mapas jogados",
+    "dmgRound": "Dano/Round",
     "kdRatio": "K/D",
     "kpr": "Kills por round",
     "hsPercent": "Headshot %",
@@ -60,8 +61,8 @@
     "trendSubtitle": "Rating 1.0 ano a ano",
     "trendAnnotationPeak": "Pico — MLG Columbus",
     "trendAnnotationFuria": "Estreia FURIA",
-    "weaponsTitle": "Armas favoritas",
-    "weaponsSubtitle": "Top 10 por kills em toda a carreira moderna",
+    "weaponsTitle": "Armas — carreira toda",
+    "weaponsSubtitle": "Top 10 por kills acumulados em toda a era CS:GO/CS2",
     "sidesTitle": "T-side × CT-side",
     "sidesSubtitle": "O atacante e o defensor",
     "sideT": "T-side",
@@ -69,7 +70,7 @@
   },
   "conquistas": {
     "title": "As conquistas",
-    "subtitle": "40 títulos. 2 Majors. Um lugar na história.",
+    "subtitle": "47 títulos. 2 Majors. Um lugar na história.",
     "majorsTitle": "Os dois Majors",
     "major2016aTitle": "MLG Columbus 2016",
     "major2016aTeam": "Luminosity Gaming",
@@ -77,9 +78,11 @@
     "major2016bTitle": "ESL One Cologne 2016",
     "major2016bTeam": "SK Gaming",
     "major2016bDate": "Julho de 2016",
-    "trophiesTitle": "Todos os troféus (era moderna)",
+    "historicalTitle": "Títulos históricos (CS 1.6 e CS:Source)",
+    "trophiesTitle": "Todos os troféus (era CS:GO/CS2)",
     "mvpTitle": "MVPs (4)",
     "evpTitle": "EVPs (18)",
+    "evpDesc": "Event Valuable Player — melhor jogador de um torneio pelo HLTV, independente do resultado do time",
     "top20Title": "HLTV Top 20 Players",
     "top20Year": "Ano",
     "top20Placement": "Posição",
@@ -87,7 +90,7 @@
   },
   "trajetoria": {
     "title": "A trajetória",
-    "subtitle": "35 times, 20 anos, 4 versões do Counter-Strike.",
+    "subtitle": "25 times, 20 anos, 4 versões do Counter-Strike.",
     "era16": "CS 1.6 (2005 – 2013)",
     "eraSource": "CS: Source (2008 – 2009)",
     "eraGo": "CS:GO (2012 – 2023)",
@@ -96,9 +99,21 @@
     "duration": "Duração",
     "events": "Conquistas na era"
   },
+  "campeonatos": {
+    "title": "Próximos campeonatos",
+    "subtitle": "Os torneios que FalleN ainda pode jogar pela FURIA em 2026.",
+    "nextLabel": "Próximo campeonato — days to go",
+    "nextBadge": "Próximo",
+    "listTitle": "Calendário 2026",
+    "daysLabel": "dias",
+    "hoursLabel": "horas",
+    "minutesLabel": "min",
+    "secondsLabel": "seg",
+    "sourceNote": "Informações obtidas no"
+  },
   "footer": {
     "credit": "Tributo feito por fãs. Dados: HLTV.org + Liquipedia.",
     "source": "Ver fontes",
-    "retirement": "Retorno oficial: 20 de dezembro de 2026"
+    "retirement": "/quit: 20 de dezembro de 2026"
   }
 }

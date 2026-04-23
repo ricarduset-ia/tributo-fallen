@@ -1,286 +1,37 @@
 {
   "source": "https://liquipedia.net/counterstrike/FalleN",
-  "total_periods": 35,
+  "total_periods": 31,
   "timeline": [
-    {
-      "start": "2005-09-??",
-      "end": "2006-09-16",
-      "team": "crashers",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Crashers&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2005-09-?? — 2006-09-16"
-    },
-    {
-      "start": "2006-09-16",
-      "end": "2007-02-09",
-      "team": "Soldats",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Soldats&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2006-09-16 — 2007-02-09"
-    },
-    {
-      "start": "2006-09-16",
-      "end": "2007-02-09",
-      "team": "Soldats",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Soldats&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2006-09-16 — 2007-02-09"
-    },
-    {
-      "start": "2007-01-08",
-      "end": "2008-03-14",
-      "team": "crashers",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Crashers&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2007-01-08 — 2008-03-14"
-    },
-    {
-      "start": "2007-03-08",
-      "end": "2007-03-??",
-      "team": "NETFIRE Gaming",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=NETFIRE_Gaming&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2007-03-08 — 2007-03-??"
-    },
-    {
-      "start": "2008-03-14",
-      "end": "2008-05-30",
-      "team": "5Kings.br",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=5Kings.br&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2008-03-14 — 2008-05-30"
-    },
-    {
-      "start": "2008-05-30",
-      "end": "2009-05-22",
-      "team": "crashers",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Crashers&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2008-05-30 — 2009-05-22"
-    },
-    {
-      "start": "2008-06-07",
-      "end": "2008-08-08",
-      "team": "vsONE",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=VsONE&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2008-06-07 — 2008-08-08"
-    },
-    {
-      "start": "2009-05-22",
-      "end": "2010-12-07",
-      "team": "FireGamers",
-      "team_url": "https://liquipedia.net/counterstrike/FireGamers",
-      "role_note": null,
-      "raw_date": "2009-05-22 — 2010-12-07"
-    },
-    {
-      "start": "2009-12-19",
-      "end": "2010-05-25",
-      "team": "TargeTDown",
-      "team_url": "https://liquipedia.net/counterstrike/TargeTDown",
-      "role_note": null,
-      "raw_date": "2009-12-19 — 2010-05-25"
-    },
-    {
-      "start": "2010-07-14",
-      "end": "2011-04-18",
-      "team": "compLexity Gaming",
-      "team_url": "https://liquipedia.net/counterstrike/CompLexity_Gaming",
-      "role_note": null,
-      "raw_date": "2010-07-14 — 2011-04-18"
-    },
-    {
-      "start": "2011-02-02",
-      "end": "2011-04-18",
-      "team": "TD.coL",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=TD.coL&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2011-02-02 — 2011-04-18"
-    },
-    {
-      "start": "2011-04-18",
-      "end": "2011-05-09",
-      "team": "Team TD",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Team_TD&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2011-04-18 — 2011-05-09"
-    },
-    {
-      "start": "2011-05-14",
-      "end": "2011-06-??",
-      "team": "FireGamers",
-      "team_url": "https://liquipedia.net/counterstrike/FireGamers",
-      "role_note": null,
-      "raw_date": "2011-05-14 — 2011-06-??"
-    },
-    {
-      "start": "2011-09-14",
-      "end": "2012-01-25",
-      "team": "mandic",
-      "team_url": "https://liquipedia.net/counterstrike/Mandic",
-      "role_note": null,
-      "raw_date": "2011-09-14 — 2012-01-25"
-    },
-    {
-      "start": "2012-02-24",
-      "end": "2012-03-10",
-      "team": "semXorah",
-      "team_url": "https://liquipedia.net/counterstrike/SemXorah",
-      "role_note": null,
-      "raw_date": "2012-02-24 — 2012-03-10"
-    },
-    {
-      "start": "2012-04-20",
-      "end": "2013-07-03",
-      "team": "playArt",
-      "team_url": "https://liquipedia.net/counterstrike/PlayArt",
-      "role_note": null,
-      "raw_date": "2012-04-20 — 2013-07-03"
-    },
-    {
-      "start": "2013-02-19",
-      "end": "2013-07-03",
-      "team": "playArt",
-      "team_url": "https://liquipedia.net/counterstrike/PlayArt",
-      "role_note": null,
-      "raw_date": "2013-02-19 — 2013-07-03"
-    },
-    {
-      "start": "2013-07-09",
-      "end": "2014-01-13",
-      "team": "ProGaming.TD",
-      "team_url": "https://liquipedia.net/counterstrike/ProGaming.TD",
-      "role_note": null,
-      "raw_date": "2013-07-09 — 2014-01-13"
-    },
-    {
-      "start": "2014-04-13",
-      "end": "2014-09-19",
-      "team": "KaBuM! e-Sports",
-      "team_url": "https://liquipedia.net/counterstrike/KaBuM!_e-Sports",
-      "role_note": null,
-      "raw_date": "2014-04-13 — 2014-09-19"
-    },
-    {
-      "start": "2014-09-19",
-      "end": "2014-09-28",
-      "team": "Games Academy",
-      "team_url": "https://liquipedia.net/counterstrike/Games_Academy",
-      "role_note": null,
-      "raw_date": "2014-09-19 — 2014-09-28"
-    },
-    {
-      "start": "2014-09-28",
-      "end": "2014-11-05",
-      "team": "KaBuM! e-Sports",
-      "team_url": "https://liquipedia.net/counterstrike/KaBuM!_e-Sports",
-      "role_note": null,
-      "raw_date": "2014-09-28 — 2014-11-05"
-    },
-    {
-      "start": "2014-11-05",
-      "end": "2015-02-24",
-      "team": "KaBuM.TD",
-      "team_url": "https://liquipedia.net/counterstrike/KaBuM.TD",
-      "role_note": null,
-      "raw_date": "2014-11-05 — 2015-02-24"
-    },
-    {
-      "start": "2015-02-24",
-      "end": "2015-07-17",
-      "team": "Keyd Stars",
-      "team_url": "https://liquipedia.net/counterstrike/Keyd_Stars",
-      "role_note": null,
-      "raw_date": "2015-02-24 — 2015-07-17"
-    },
-    {
-      "start": "2015-07-17",
-      "end": "2015-07-28",
-      "team": "ex-Keyd Stars",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Ex-Keyd_Stars&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2015-07-17 — 2015-07-28"
-    },
-    {
-      "start": "2015-07-28",
-      "end": "2016-07-01",
-      "team": "Luminosity Gaming",
-      "team_url": "https://liquipedia.net/counterstrike/Luminosity_Gaming",
-      "role_note": null,
-      "raw_date": "2015-07-28 — 2016-07-01"
-    },
-    {
-      "start": "2016-07-01",
-      "end": "2018-06-23",
-      "team": "SK Gaming",
-      "team_url": "https://liquipedia.net/counterstrike/SK_Gaming",
-      "role_note": null,
-      "raw_date": "2016-07-01 — 2018-06-23"
-    },
-    {
-      "start": "2018-01-13",
-      "end": "2018-08-??",
-      "team": "Yeah (Organization)",
-      "team_url": "https://liquipedia.net/counterstrike/Yeah_Gaming",
-      "role_note": null,
-      "raw_date": "2018-01-13 — 2018-08-??"
-    },
-    {
-      "start": "2018-06-23",
-      "end": "2020-09-13",
-      "team": "MIBR",
-      "team_url": "https://liquipedia.net/counterstrike/MIBR",
-      "role_note": null,
-      "raw_date": "2018-06-23 — 2020-09-13"
-    },
-    {
-      "start": "2020-09-13",
-      "end": "2021-01-09",
-      "team": "MIBR (Inactive)",
-      "team_url": "https://liquipedia.net/counterstrike/MIBR",
-      "role_note": null,
-      "raw_date": "2020-09-13 — 2021-01-09"
-    },
-    {
-      "start": "2021-01-09",
-      "end": "2021-12-21",
-      "team": "Team Liquid",
-      "team_url": "https://liquipedia.net/counterstrike/Team_Liquid",
-      "role_note": null,
-      "raw_date": "2021-01-09 — 2021-12-21"
-    },
-    {
-      "start": "2021-12-21",
-      "end": "2022-02-16",
-      "team": "Team Liquid (Inactive)",
-      "team_url": "https://liquipedia.net/counterstrike/Team_Liquid",
-      "role_note": null,
-      "raw_date": "2021-12-21 — 2022-02-16"
-    },
-    {
-      "start": "2022-01-15",
-      "end": "2022-02-18",
-      "team": "Last Dance",
-      "team_url": "https://liquipedia.net/counterstrike/index.php?title=Last_Dance&action=edit&redlink=1",
-      "role_note": null,
-      "raw_date": "2022-01-15 — 2022-02-18"
-    },
-    {
-      "start": "2022-02-18",
-      "end": "2023-07-03",
-      "team": "Imperial Esports",
-      "team_url": "https://liquipedia.net/counterstrike/Imperial_Esports",
-      "role_note": null,
-      "raw_date": "2022-02-18 — 2023-07-03"
-    },
-    {
-      "start": "2023-07-03",
-      "end": "Present",
-      "team": "FURIA",
-      "team_url": "https://liquipedia.net/counterstrike/FURIA",
-      "role_note": null,
-      "raw_date": "2023-07-03 — Present"
-    }
+    { "start": "2005-09-??", "end": "2006-09-16", "team": "crashers",         "team_url": "https://liquipedia.net/counterstrike/index.php?title=Crashers&action=edit&redlink=1",      "role_note": null, "raw_date": "2005-09-?? — 2006-09-16", "game": "cs16" },
+    { "start": "2006-09-16", "end": "2007-02-09", "team": "Soldats",          "team_url": "https://liquipedia.net/counterstrike/index.php?title=Soldats&action=edit&redlink=1",       "role_note": null, "raw_date": "2006-09-16 — 2007-02-09", "game": "cs16" },
+    { "start": "2006-09-16", "end": "2007-02-09", "team": "Soldats",          "team_url": "https://liquipedia.net/counterstrike/index.php?title=Soldats&action=edit&redlink=1",       "role_note": null, "raw_date": "2006-09-16 — 2007-02-09", "game": "cssource" },
+    { "start": "2007-01-08", "end": "2008-03-14", "team": "crashers",         "team_url": "https://liquipedia.net/counterstrike/index.php?title=Crashers&action=edit&redlink=1",      "role_note": null, "raw_date": "2007-01-08 — 2008-03-14", "game": "cs16" },
+    { "start": "2007-03-08", "end": "2007-03-??", "team": "NETFIRE Gaming",   "team_url": "https://liquipedia.net/counterstrike/index.php?title=NETFIRE_Gaming&action=edit&redlink=1","role_note": null, "raw_date": "2007-03-08 — 2007-03-??", "game": "cssource" },
+    { "start": "2008-03-14", "end": "2008-05-30", "team": "5Kings.br",        "team_url": "https://liquipedia.net/counterstrike/index.php?title=5Kings.br&action=edit&redlink=1",     "role_note": null, "raw_date": "2008-03-14 — 2008-05-30", "game": "cs16" },
+    { "start": "2008-05-30", "end": "2009-05-22", "team": "crashers",         "team_url": "https://liquipedia.net/counterstrike/index.php?title=Crashers&action=edit&redlink=1",      "role_note": null, "raw_date": "2008-05-30 — 2009-05-22", "game": "cs16" },
+    { "start": "2008-06-07", "end": "2008-08-08", "team": "vsONE",            "team_url": "https://liquipedia.net/counterstrike/index.php?title=VsONE&action=edit&redlink=1",         "role_note": null, "raw_date": "2008-06-07 — 2008-08-08", "game": "cssource" },
+    { "start": "2009-05-22", "end": "2010-12-07", "team": "FireGamers",       "team_url": "https://liquipedia.net/counterstrike/FireGamers",                                          "role_note": null, "raw_date": "2009-05-22 — 2010-12-07", "game": "cs16" },
+    { "start": "2009-12-19", "end": "2010-05-25", "team": "TargeTDown",       "team_url": "https://liquipedia.net/counterstrike/TargeTDown",                                          "role_note": null, "raw_date": "2009-12-19 — 2010-05-25", "game": "cssource" },
+    { "start": "2010-07-14", "end": "2011-04-18", "team": "compLexity Gaming","team_url": "https://liquipedia.net/counterstrike/CompLexity_Gaming",                                   "role_note": null, "raw_date": "2010-07-14 — 2011-04-18", "game": "cs16" },
+    { "start": "2011-02-02", "end": "2011-04-18", "team": "TD.coL",           "team_url": "https://liquipedia.net/counterstrike/index.php?title=TD.coL&action=edit&redlink=1",        "role_note": null, "raw_date": "2011-02-02 — 2011-04-18", "game": "cssource" },
+    { "start": "2011-04-18", "end": "2011-05-09", "team": "Team TD",          "team_url": "https://liquipedia.net/counterstrike/index.php?title=Team_TD&action=edit&redlink=1",       "role_note": null, "raw_date": "2011-04-18 — 2011-05-09", "game": "cssource" },
+    { "start": "2011-05-14", "end": "2011-06-??", "team": "FireGamers",       "team_url": "https://liquipedia.net/counterstrike/FireGamers",                                          "role_note": null, "raw_date": "2011-05-14 — 2011-06-??", "game": "cs16" },
+    { "start": "2011-09-14", "end": "2012-01-25", "team": "mandic",           "team_url": "https://liquipedia.net/counterstrike/Mandic",                                              "role_note": null, "raw_date": "2011-09-14 — 2012-01-25", "game": "cs16" },
+    { "start": "2012-02-24", "end": "2012-03-10", "team": "semXorah",         "team_url": "https://liquipedia.net/counterstrike/SemXorah",                                            "role_note": null, "raw_date": "2012-02-24 — 2012-03-10", "game": "cs16" },
+    { "start": "2012-04-20", "end": "2013-07-03", "team": "playArt",          "team_url": "https://liquipedia.net/counterstrike/PlayArt",                                             "role_note": null, "raw_date": "2012-04-20 — 2013-07-03", "game": "cs16" },
+    { "start": "2013-02-19", "end": "2013-07-03", "team": "playArt",          "team_url": "https://liquipedia.net/counterstrike/PlayArt",                                             "role_note": null, "raw_date": "2013-02-19 — 2013-07-03", "game": "csgo" },
+    { "start": "2013-07-09", "end": "2014-01-13", "team": "ProGaming.TD",     "team_url": "https://liquipedia.net/counterstrike/ProGaming.TD",                                        "role_note": null, "raw_date": "2013-07-09 — 2014-01-13", "game": "csgo" },
+    { "start": "2014-04-13", "end": "2014-09-19", "team": "KaBuM! e-Sports",  "team_url": "https://liquipedia.net/counterstrike/KaBuM!_e-Sports",                                    "role_note": null, "raw_date": "2014-04-13 — 2014-09-19", "game": "csgo" },
+    { "start": "2014-09-19", "end": "2014-09-28", "team": "Games Academy",    "team_url": "https://liquipedia.net/counterstrike/Games_Academy",                                       "role_note": null, "raw_date": "2014-09-19 — 2014-09-28", "game": "csgo" },
+    { "start": "2014-09-28", "end": "2014-11-05", "team": "KaBuM! e-Sports",  "team_url": "https://liquipedia.net/counterstrike/KaBuM!_e-Sports",                                    "role_note": null, "raw_date": "2014-09-28 — 2014-11-05", "game": "csgo" },
+    { "start": "2014-11-05", "end": "2015-02-24", "team": "KaBuM.TD",         "team_url": "https://liquipedia.net/counterstrike/KaBuM.TD",                                            "role_note": null, "raw_date": "2014-11-05 — 2015-02-24", "game": "csgo" },
+    { "start": "2015-02-24", "end": "2015-07-17", "team": "Keyd Stars",       "team_url": "https://liquipedia.net/counterstrike/Keyd_Stars",                                          "role_note": null, "raw_date": "2015-02-24 — 2015-07-17", "game": "csgo" },
+{ "start": "2015-07-28", "end": "2016-07-01", "team": "Luminosity Gaming","team_url": "https://liquipedia.net/counterstrike/Luminosity_Gaming",                                   "role_note": null, "raw_date": "2015-07-28 — 2016-07-01", "game": "csgo" },
+    { "start": "2016-07-01", "end": "2018-06-23", "team": "SK Gaming",        "team_url": "https://liquipedia.net/counterstrike/SK_Gaming",                                           "role_note": null, "raw_date": "2016-07-01 — 2018-06-23", "game": "csgo" },
+    { "start": "2018-06-23", "end": "2020-09-13", "team": "MIBR",             "team_url": "https://liquipedia.net/counterstrike/MIBR",                                                "role_note": null, "raw_date": "2018-06-23 — 2020-09-13", "game": "csgo" },
+    { "start": "2021-01-09", "end": "2021-12-21", "team": "Team Liquid",      "team_url": "https://liquipedia.net/counterstrike/Team_Liquid",                                         "role_note": null, "raw_date": "2021-01-09 — 2021-12-21", "game": "csgo" },
+    { "start": "2022-01-15", "end": "2022-02-18", "team": "Last Dance",       "team_url": "https://liquipedia.net/counterstrike/index.php?title=Last_Dance&action=edit&redlink=1",    "role_note": null, "raw_date": "2022-01-15 — 2022-02-18", "game": "csgo" },
+    { "start": "2022-02-18", "end": "2023-07-03", "team": "Imperial Esports", "team_url": "https://liquipedia.net/counterstrike/Imperial_Esports",                                    "role_note": null, "raw_date": "2022-02-18 — 2023-07-03", "game": "csgo" },
+    { "start": "2023-07-03", "end": "Present",    "team": "FURIA",            "team_url": "https://liquipedia.net/counterstrike/FURIA",                                                "role_note": null, "raw_date": "2023-07-03 — Present",    "game": "cs2"  }
   ]
 }

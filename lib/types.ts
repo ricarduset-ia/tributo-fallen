@@ -59,6 +59,7 @@ export type TeamsTimelineJSON = {
   timeline: {
     start: string; end: string | null; team: string;
     team_url: string | null; role_note: string | null; raw_date: string;
+    game?: "cs16" | "cssource" | "csgo" | "cs2";
   }[];
 };
 

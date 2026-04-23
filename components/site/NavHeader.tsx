@@ -10,6 +10,7 @@ export async function NavHeader() {
     { href: `/${locale}/stats`, label: t("stats") },
     { href: `/${locale}/conquistas`, label: t("conquistas") },
     { href: `/${locale}/trajetoria`, label: t("trajetoria") },
+    { href: `/${locale}/campeonatos`, label: t("campeonatos") },
   ];
   return (
     <header className="sticky top-0 z-40 bg-fallen-void/70 backdrop-blur-md border-b border-fallen-bone/5">

@@ -12,7 +12,7 @@ export async function CTARow() {
   return (
     <section className="py-24">
       <div className="mx-auto max-w-6xl px-6">
-        <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-muted mb-6">{t("ctaExplore")}</p>
+        <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6">{t("ctaExplore")}</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {links.map((l) => (
             <Link

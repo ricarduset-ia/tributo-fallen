@@ -14,7 +14,8 @@ export async function MVPEVPLists({ data }: { data: PersonalAchievementsJSON }) 
           </ul>
         </div>
         <div>
-          <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-awp mb-6">{t("evpTitle")}</p>
+          <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-awp mb-1">{t("evpTitle")}</p>
+          <p className="text-mono text-xs text-fallen-muted mb-6">{t("evpDesc")}</p>
           <div className="flex flex-wrap gap-2">
             {pa.evp_at.map((title) => (
               <span key={title} className="text-xs text-fallen-muted border border-fallen-bone/10 px-3 py-1">{title}</span>
