@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "FalleN — El Profesor",
+    "title": "FalleN — The Professor",
     "description": "Un tributo a la carrera de Gabriel Toledo, el mayor estratega del Counter-Strike brasileño.",
     "nav": { "home": "Inicio", "stats": "Estadísticas", "conquistas": "Logros", "trajetoria": "Trayectoria", "campeonatos": "Torneos" },
     "langLabel": "Idioma"

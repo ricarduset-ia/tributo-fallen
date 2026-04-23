@@ -1,17 +1,3 @@
-"use client";
-
-import { useEffect, useRef, useState } from "react";
-
-declare global {
-  interface Window {
-    twttr?: {
-      _e: Array<(twttr: Window["twttr"]) => void>;
-      ready: (fn: (twttr: Window["twttr"]) => void) => void;
-      widgets: { load: (el?: HTMLElement | null) => void };
-    };
-  }
-}
-
 const MOCK_TWEETS = [
   {
     id: "1",
@@ -105,56 +91,11 @@ function MockTimeline() {
   );
 }
 
-const IS_DEV = process.env.NODE_ENV === "development";
-
 export function TwitterFeed() {
-  const ref = useRef<HTMLDivElement>(null);
-  const [loaded, setLoaded] = useState(false);
-
-  useEffect(() => {
-    if (IS_DEV) return;
-
-    const load = () => {
-      window.twttr?.ready(() => {
-        window.twttr?.widgets.load(ref.current);
-        setLoaded(true);
-      });
-    };
-
-    if (document.getElementById("twitter-wjs")) {
-      load();
-      return;
-    }
-
-    window.twttr = window.twttr || ({ _e: [], ready(f: unknown) { this._e.push(f); } } as any);
-
-    const script = document.createElement("script");
-    script.id = "twitter-wjs";
-    script.src = "https://platform.twitter.com/widgets.js";
-    script.async = true;
-    script.charset = "utf-8";
-    document.head.appendChild(script);
-
-    load();
-  }, []);
-
   return (
     <section className="py-24">
       <div className="mx-auto max-w-6xl px-6 flex justify-center">
-        {IS_DEV ? (
-          <MockTimeline />
-        ) : (
-          <div ref={ref}>
-            <a
-              className="twitter-timeline"
-              href="https://twitter.com/fallencs"
-              data-theme="dark"
-              data-tweet-limit="5"
-            >
-              Tweets by @fallencs
-            </a>
-          </div>
-        )}
+        <MockTimeline />
       </div>
     </section>
   );
