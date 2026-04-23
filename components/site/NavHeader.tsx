@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getLocale, getTranslations } from "next-intl/server";
 import { LangSwitcher } from "./LangSwitcher";
+import { MobileMenu } from "./MobileMenu";
 
 export async function NavHeader() {
   const locale = await getLocale();
@@ -19,7 +20,10 @@ export async function NavHeader() {
         <nav className="hidden md:flex gap-8 text-mono text-xs uppercase tracking-widest text-fallen-muted">
           {links.map((l) => (<Link key={l.href} href={l.href} className="hover:text-fallen-bone transition">{l.label}</Link>))}
         </nav>
-        <LangSwitcher />
+        <div className="flex items-center gap-4">
+          <div className="hidden md:block"><LangSwitcher /></div>
+          <MobileMenu links={links} />
+        </div>
       </div>
     </header>
   );

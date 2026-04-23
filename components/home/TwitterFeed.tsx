@@ -126,7 +126,7 @@ export function TwitterFeed() {
       return;
     }
 
-    window.twttr = window.twttr || ({ _e: [], ready(f) { this._e.push(f); } } as any);
+    window.twttr = window.twttr || ({ _e: [], ready(f: unknown) { this._e.push(f); } } as any);
 
     const script = document.createElement("script");
     script.id = "twitter-wjs";
