@@ -43,8 +43,6 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
       </section>
 
-      <MomentosHighlight locale={locale as Locale} />
-
       <section className="border-t border-fallen-bone/5">
         <div className="mx-auto max-w-4xl px-6">
           <NextCountdown />
@@ -58,6 +56,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </div>
         </div>
       </section>
+
+      <MomentosHighlight locale={locale as Locale} />
     </>
   );
 }

@@ -37,7 +37,7 @@ export const MOMENTS: Moment[] = [
       en: "SK 2-0 Liquid. Second consecutive Major — a feat only a handful of teams have managed.",
       es: "SK 2-0 Liquid. Segundo Major consecutivo, algo que muy pocos equipos lograron.",
     },
-    featured: false,
+    featured: true,
   },
   {
     id: "QD6rT2CVgak",
@@ -83,20 +83,5 @@ export const MOMENTS: Moment[] = [
       es: "Flicks, no-scopes, clutches. Una década de precisión en 10 minutos.",
     },
     featured: false,
-  },
-  {
-    id: "r_fEG399BFQ",
-    year: "2026",
-    title: {
-      pt: "IEM Rio 2026 — o anúncio da aposentadoria",
-      en: "IEM Rio 2026 — the retirement announcement",
-      es: "IEM Rio 2026 — el anuncio del retiro",
-    },
-    description: {
-      pt: "No palco do Rio, o Professor anuncia o fim da carreira ao fim de 2026.",
-      en: "On stage in Rio, the Professor announces the end of his career at the close of 2026.",
-      es: "En el escenario de Río, el Profesor anuncia el fin de su carrera al cierre de 2026.",
-    },
-    featured: true,
   },
 ];
