@@ -146,7 +146,7 @@ export function Hero({ imageUrl }: { imageUrl: string }) {
           transition={{ delay: 1.6, duration: 0.8 }}
           className="mt-20 text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6"
         >
-          Gabriel Toledo · 1991 — 2026
+          Gabriel Toledo
         </motion.p>
 
         <h1 className="text-display text-[14vw] sm:text-[11vw] md:text-[9vw] leading-[0.88] text-fallen-bone" style={{ letterSpacing: "-0.05em" }}>
