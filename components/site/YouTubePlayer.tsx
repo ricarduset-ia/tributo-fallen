@@ -6,16 +6,18 @@ export function YouTubePlayer({
   title,
   playLabel,
   cornerBadge,
+  thumbnail,
   className = "",
 }: {
   videoId: string;
   title: string;
   playLabel: string;
   cornerBadge?: ReactNode;
+  thumbnail?: string;
   className?: string;
 }) {
   const [isPlaying, setIsPlaying] = useState(false);
-  const thumbnail = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+  const thumbnailSrc = thumbnail ?? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
 
   return (
     <div className={`relative w-full bg-black ${className}`} style={{ paddingBottom: "56.25%" }}>
@@ -36,7 +38,7 @@ export function YouTubePlayer({
           className="absolute inset-0 w-full h-full group/btn"
         >
           <img
-            src={thumbnail}
+            src={thumbnailSrc}
             alt={title}
             loading="lazy"
             className="absolute inset-0 w-full h-full object-cover opacity-80 group-hover/btn:opacity-100 transition"

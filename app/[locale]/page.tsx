@@ -22,7 +22,12 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <div className="mx-auto max-w-5xl px-6">
           <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6 text-center">{t("retirementSpeech")}</p>
           <div className="border border-fallen-bone/10">
-            <YouTubePlayer videoId="CZ8gWC2aWeE" title={t("retirementSpeech")} playLabel={tm("playButton")} />
+            <YouTubePlayer
+              videoId="CZ8gWC2aWeE"
+              title={t("retirementSpeech")}
+              playLabel={tm("playButton")}
+              thumbnail="/images/fallen-discurso-final.jpg"
+            />
           </div>
         </div>
       </section>
