@@ -4,6 +4,7 @@ import { StatCard, DaysPlayingCard } from "@/components/home/StatCard";
 import { RevealOnScroll } from "@/components/site/RevealOnScroll";
 import { NextCountdown } from "@/components/campeonatos/NextCountdown";
 import { MomentosHighlight } from "@/components/home/MomentosHighlight";
+import { YouTubePlayer } from "@/components/site/YouTubePlayer";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Locale } from "@/i18n";
 
@@ -11,6 +12,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("home");
+  const tm = await getTranslations("momentos");
 
   return (
     <>
@@ -19,15 +21,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       <section className="py-20 border-t border-fallen-bone/5">
         <div className="mx-auto max-w-5xl px-6">
           <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6 text-center">{t("retirementSpeech")}</p>
-          <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
-            <iframe
-              className="absolute inset-0 w-full h-full border border-fallen-bone/10"
-              src="https://www.youtube.com/embed/CZ8gWC2aWeE"
-              title="Discurso de aposentadoria de FalleN"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
-              allowFullScreen
-            />
+          <div className="border border-fallen-bone/10">
+            <YouTubePlayer videoId="CZ8gWC2aWeE" title={t("retirementSpeech")} playLabel={tm("playButton")} />
           </div>
         </div>
       </section>
