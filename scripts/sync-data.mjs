@@ -8,8 +8,8 @@ const SRC = resolve(__dirname, "../../hltv-api/data");
 const DST = resolve(__dirname, "../public/data");
 
 if (!existsSync(SRC)) {
-  console.error(`[sync-data] Source not found: ${SRC}`);
-  process.exit(1);
+  console.log(`[sync-data] Source not found: ${SRC} — skipping (data already in public/data)`);
+  process.exit(0);
 }
 
 mkdirSync(DST, { recursive: true });
