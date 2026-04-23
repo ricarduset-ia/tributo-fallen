@@ -7,6 +7,7 @@
       "stats": "Estatísticas",
       "conquistas": "Conquistas",
       "trajetoria": "Trajetória",
+      "momentos": "Momentos",
       "campeonatos": "Campeonatos"
     },
     "langLabel": "Idioma"
@@ -37,7 +38,14 @@
     "milestone2016": "Campeão do MLG Columbus Major com Luminosity",
     "milestone2023": "Estreia na FURIA",
     "milestone2026": "Último jogo oficial (20 de dezembro)",
-    "ctaCampeonatos": "Próximos campeonatos"
+    "ctaCampeonatos": "Próximos campeonatos",
+    "momentosTitle": "Momentos imortais",
+    "momentosLink": "Ver todos →"
+  },
+  "momentos": {
+    "title": "Momentos imortais",
+    "subtitle": "Seis vídeos que resumem 23 anos de carreira.",
+    "playButton": "Assistir"
   },
   "stats": {
     "title": "As estatísticas",

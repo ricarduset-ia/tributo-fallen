@@ -3,7 +3,9 @@ import { Hero } from "@/components/home/Hero";
 import { StatCard, DaysPlayingCard } from "@/components/home/StatCard";
 import { RevealOnScroll } from "@/components/site/RevealOnScroll";
 import { NextCountdown } from "@/components/campeonatos/NextCountdown";
+import { MomentosHighlight } from "@/components/home/MomentosHighlight";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import type { Locale } from "@/i18n";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -40,6 +42,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </div>
         </div>
       </section>
+
+      <MomentosHighlight locale={locale as Locale} />
 
       <section className="border-t border-fallen-bone/5">
         <div className="mx-auto max-w-4xl px-6">

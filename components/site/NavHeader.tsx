@@ -11,6 +11,7 @@ export async function NavHeader() {
     { href: `/${locale}/stats`, label: t("stats") },
     { href: `/${locale}/conquistas`, label: t("conquistas") },
     { href: `/${locale}/trajetoria`, label: t("trajetoria") },
+    { href: `/${locale}/momentos`, label: t("momentos") },
     { href: `/${locale}/campeonatos`, label: t("campeonatos") },
   ];
   return (

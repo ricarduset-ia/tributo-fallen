@@ -2,7 +2,7 @@
   "site": {
     "title": "FalleN - The Professor",
     "description": "A tribute to Gabriel Toledo's career, the greatest strategist of Brazilian Counter-Strike.",
-    "nav": { "home": "Home", "stats": "Stats", "conquistas": "Achievements", "trajetoria": "Timeline", "campeonatos": "Tournaments" },
+    "nav": { "home": "Home", "stats": "Stats", "conquistas": "Achievements", "trajetoria": "Timeline", "momentos": "Moments", "campeonatos": "Tournaments" },
     "langLabel": "Language"
   },
   "home": {
@@ -22,7 +22,14 @@
     "milestone2016": "MLG Columbus Major champion with Luminosity",
     "milestone2023": "Joins FURIA",
     "milestone2026": "Last official match (December 20)",
-    "ctaCampeonatos": "Upcoming tournaments"
+    "ctaCampeonatos": "Upcoming tournaments",
+    "momentosTitle": "Timeless moments",
+    "momentosLink": "See all →"
+  },
+  "momentos": {
+    "title": "Timeless moments",
+    "subtitle": "Six videos that capture 23 years of a career.",
+    "playButton": "Watch"
   },
   "stats": {
     "title": "The stats", "subtitle": "20 years of data. Filter however you like.",
