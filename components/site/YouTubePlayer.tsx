@@ -7,6 +7,7 @@ export function YouTubePlayer({
   playLabel,
   cornerBadge,
   thumbnail,
+  thumbnailScale,
   className = "",
 }: {
   videoId: string;
@@ -14,6 +15,7 @@ export function YouTubePlayer({
   playLabel: string;
   cornerBadge?: ReactNode;
   thumbnail?: string;
+  thumbnailScale?: number;
   className?: string;
 }) {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -41,6 +43,7 @@ export function YouTubePlayer({
             src={thumbnailSrc}
             alt={title}
             loading="lazy"
+            style={thumbnailScale ? { transform: `scale(${thumbnailScale})` } : undefined}
             className="absolute inset-0 w-full h-full object-cover opacity-80 group-hover/btn:opacity-100 transition"
           />
           <span className="absolute inset-0 flex items-center justify-center">

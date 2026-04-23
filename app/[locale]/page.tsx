@@ -27,6 +27,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               title={t("retirementSpeech")}
               playLabel={tm("playButton")}
               thumbnail="/images/fallen-discurso-final.jpg"
+              thumbnailScale={1.2}
             />
           </div>
         </div>
