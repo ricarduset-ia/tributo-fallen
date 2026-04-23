@@ -15,6 +15,23 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   return (
     <>
       <Hero imageUrl="/images/fallen-hero.jpg" />
+
+      <section className="py-20 border-t border-fallen-bone/5">
+        <div className="mx-auto max-w-5xl px-6">
+          <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6 text-center">{t("retirementSpeech")}</p>
+          <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
+            <iframe
+              className="absolute inset-0 w-full h-full border border-fallen-bone/10"
+              src="https://www.youtube.com/embed/CZ8gWC2aWeE"
+              title="Discurso de aposentadoria de FalleN"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            />
+          </div>
+        </div>
+      </section>
+
       <section className="py-24">
         <div className="mx-auto max-w-6xl px-6">
           <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-10">{t("journeyTitle")}</p>

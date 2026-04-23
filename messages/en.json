@@ -11,6 +11,7 @@
     "countdownLabel": "Days until the servers /quit",
     "daysLabel": "days", "hoursLabel": "hours", "minutesLabel": "min", "secondsLabel": "sec",
     "ctaPrimary": "See the career",
+    "retirementSpeech": "Retirement speech",
     "journeyTitle": "The journey",
     "journeyStat1Value": "8508", "journeyStat1Label": "days playing CS", "journeyStat1Note": "Since 2002-12-31",
     "journeyStat2Value": "18251", "journeyStat2Label": "AWP kills", "journeyStat2Note": "CS:GO/CS2 era",

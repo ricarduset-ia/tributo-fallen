@@ -11,6 +11,7 @@
     "countdownLabel": "Días hasta el /quit de los servidores",
     "daysLabel": "días", "hoursLabel": "horas", "minutesLabel": "min", "secondsLabel": "seg",
     "ctaPrimary": "Ver la carrera",
+    "retirementSpeech": "Discurso de despedida",
     "journeyTitle": "El camino",
     "journeyStat1Value": "8508", "journeyStat1Label": "días jugando CS", "journeyStat1Note": "Desde el 31/12/2002",
     "journeyStat2Value": "18251", "journeyStat2Label": "kills de AWP", "journeyStat2Note": "Era CS:GO/CS2",
