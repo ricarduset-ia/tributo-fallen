@@ -10,6 +10,21 @@ export type Moment = {
 
 export const MOMENTS: Moment[] = [
   {
+    id: "St0_ViSnfbs",
+    year: "2010",
+    title: {
+      pt: "WCG 2010 — a final que começou tudo",
+      en: "WCG 2010 — the final where it all started",
+      es: "WCG 2010 — la final donde todo empezó",
+    },
+    description: {
+      pt: "FireGamers x CNB na decisão. POV do FalleN no round final — seis anos antes do primeiro Major.",
+      en: "FireGamers vs CNB in the final. FalleN's POV on the closing round — six years before the first Major.",
+      es: "FireGamers vs CNB en la final. POV de FalleN en el round final — seis años antes del primer Major.",
+    },
+    featured: false,
+  },
+  {
     id: "-PUX1oXVtiY",
     year: "2016",
     title: {
@@ -55,17 +70,17 @@ export const MOMENTS: Moment[] = [
     featured: true,
   },
   {
-    id: "TJ5qVs_9KK4",
-    year: "2022",
+    id: "zqd94_tCosk",
+    year: "2016",
     title: {
-      pt: "O Professor ranqueia seus 10 melhores plays",
-      en: "The Professor ranks his top 10 plays",
-      es: "El Profesor rankea sus 10 mejores jugadas",
+      pt: "ESL Pro League S4 — o clutch no Dust2",
+      en: "ESL Pro League S4 — the Dust2 clutch",
+      es: "ESL Pro League S4 — el clutch en Dust2",
     },
     description: {
-      pt: "O próprio FalleN comenta os momentos que marcaram a carreira dele.",
-      en: "FalleN himself breaks down the moments that defined his career.",
-      es: "El propio FalleN comenta los momentos que marcaron su carrera.",
+      pt: "SK contra Cloud9 na final. Mais um clutch do Professor quando o round pedia calma.",
+      en: "SK vs Cloud9 in the final. Another Professor clutch when the round demanded composure.",
+      es: "SK contra Cloud9 en la final. Otro clutch del Profesor cuando el round exigía calma.",
     },
     featured: false,
   },
@@ -81,6 +96,21 @@ export const MOMENTS: Moment[] = [
       pt: "Flicks, no-scopes, clutches. Uma década de precisão em 10 minutos.",
       en: "Flicks, no-scopes, clutches. A decade of precision in 10 minutes.",
       es: "Flicks, no-scopes, clutches. Una década de precisión en 10 minutos.",
+    },
+    featured: false,
+  },
+  {
+    id: "TJ5qVs_9KK4",
+    year: "2022",
+    title: {
+      pt: "O Professor ranqueia seus 10 melhores plays",
+      en: "The Professor ranks his top 10 plays",
+      es: "El Profesor rankea sus 10 mejores jugadas",
+    },
+    description: {
+      pt: "O próprio FalleN comenta os momentos que marcaram a carreira dele.",
+      en: "FalleN himself breaks down the moments that defined his career.",
+      es: "El propio FalleN comenta los momentos que marcaron su carrera.",
     },
     featured: false,
   },
