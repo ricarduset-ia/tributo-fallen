@@ -8,6 +8,7 @@ export function YouTubePlayer({
   cornerBadge,
   thumbnail,
   thumbnailScale,
+  accent = false,
   className = "",
 }: {
   videoId: string;
@@ -16,13 +17,14 @@ export function YouTubePlayer({
   cornerBadge?: ReactNode;
   thumbnail?: string;
   thumbnailScale?: number;
+  accent?: boolean;
   className?: string;
 }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const thumbnailSrc = thumbnail ?? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
 
   return (
-    <div className={`relative w-full bg-black ${className}`} style={{ paddingBottom: "56.25%" }}>
+    <div className={`relative w-full bg-black overflow-hidden ${className}`} style={{ paddingBottom: "56.25%" }}>
       {isPlaying ? (
         <iframe
           className="absolute inset-0 w-full h-full"
@@ -44,7 +46,7 @@ export function YouTubePlayer({
             alt={title}
             loading="lazy"
             style={thumbnailScale ? { transform: `scale(${thumbnailScale})` } : undefined}
-            className="absolute inset-0 w-full h-full object-cover opacity-80 group-hover/btn:opacity-100 transition"
+            className={`absolute inset-0 w-full h-full object-cover transition ${accent ? "" : "opacity-80 group-hover/btn:opacity-100"}`}
           />
           <span className="absolute inset-0 flex items-center justify-center">
             <span className="flex items-center justify-center w-16 h-16 rounded-full bg-fallen-gold/90 text-fallen-void group-hover/btn:bg-fallen-gold group-hover/btn:scale-110 transition">

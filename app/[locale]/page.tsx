@@ -18,16 +18,20 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
     <>
       <Hero imageUrl="/images/fallen-hero.jpg" />
 
-      <section className="py-20 border-t border-fallen-bone/5">
-        <div className="mx-auto max-w-5xl px-6">
-          <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold mb-6 text-center">{t("retirementSpeech")}</p>
-          <div className="border border-fallen-bone/10">
+      <section className="py-24 border-t border-fallen-bone/5">
+        <div className="mx-auto max-w-4xl px-6">
+          <div className="flex items-center justify-center gap-4 mb-8">
+            <span className="h-px w-12 bg-fallen-gold/40" aria-hidden="true" />
+            <p className="text-mono text-xs uppercase tracking-[0.35em] text-fallen-gold">{t("retirementSpeech")}</p>
+            <span className="h-px w-12 bg-fallen-gold/40" aria-hidden="true" />
+          </div>
+          <div className="p-[3px] bg-gradient-to-b from-fallen-gold/70 via-fallen-gold/40 to-fallen-gold/70 shadow-[0_0_120px_-20px_rgba(228,180,82,0.45)]">
             <YouTubePlayer
               videoId="CZ8gWC2aWeE"
               title={t("retirementSpeech")}
               playLabel={tm("playButton")}
               thumbnail="/images/fallen-discurso-final.jpg"
-              thumbnailScale={1.2}
+              accent
             />
           </div>
         </div>
