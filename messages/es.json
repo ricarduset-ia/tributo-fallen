@@ -29,7 +29,8 @@
   "momentos": {
     "title": "Momentos inmortales",
     "subtitle": "Videos que marcaron 23 años de carrera.",
-    "playButton": "Ver"
+    "playButton": "Ver",
+    "moreSoon": "Se añadirán más videos en los próximos días."
   },
   "stats": {
     "title": "Las estadísticas", "subtitle": "20 años de datos. Filtra como quieras.",
