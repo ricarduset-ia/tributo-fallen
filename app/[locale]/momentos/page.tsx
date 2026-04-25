@@ -19,8 +19,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
       <section className="py-16">
         <div className="mx-auto max-w-6xl px-6">
+          <p className="mb-12 text-center text-sm text-fallen-muted italic">{t("moreSoon")}</p>
           <MomentsGrid moments={MOMENTS} locale={locale as Locale} playLabel={t("playButton")} />
-          <p className="mt-12 text-center text-sm text-fallen-muted italic">{t("moreSoon")}</p>
         </div>
       </section>
     </>
