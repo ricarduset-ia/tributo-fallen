@@ -10,6 +10,36 @@ export type Moment = {
 
 export const MOMENTS: Moment[] = [
   {
+    id: "zfUD7xJ2Q2Q",
+    year: "1.6",
+    title: {
+      pt: "Era 1.6 — os momentos que abriram o caminho",
+      en: "1.6 era — the moments that paved the way",
+      es: "Era 1.6 — los momentos que abrieron el camino",
+    },
+    description: {
+      pt: "Antes do CS:GO, antes do Major. Os plays do FalleN no 1.6 que mostraram quem ele se tornaria.",
+      en: "Before CS:GO, before the Major. FalleN's 1.6 plays that showed who he would become.",
+      es: "Antes del CS:GO, antes del Major. Las jugadas de FalleN en el 1.6 que mostraron quién sería.",
+    },
+    featured: false,
+  },
+  {
+    id: "0KZBprFq_1U",
+    year: "2010",
+    title: {
+      pt: "WCG Pan 2010 — POV de AWP no 1.6",
+      en: "WCG Pan 2010 — AWP POV on 1.6",
+      es: "WCG Pan 2010 — POV de AWP en el 1.6",
+    },
+    description: {
+      pt: "FalleN de AWP no Counter-Strike 1.6. O Professor antes de virar Professor.",
+      en: "FalleN on the AWP in Counter-Strike 1.6. The Professor before becoming the Professor.",
+      es: "FalleN con AWP en Counter-Strike 1.6. El Profesor antes de volverse el Profesor.",
+    },
+    featured: false,
+  },
+  {
     id: "St0_ViSnfbs",
     year: "2010",
     title: {
@@ -58,9 +88,9 @@ export const MOMENTS: Moment[] = [
     id: "QD6rT2CVgak",
     year: "2016",
     title: {
-      pt: "IEM Katowice — o 1v4 contra NaVi",
-      en: "IEM Katowice — the 1v4 vs NaVi",
-      es: "IEM Katowice — el 1v4 contra NaVi",
+      pt: "IEM Katowice — Stop Blowing My Mind",
+      en: "IEM Katowice — Stop Blowing My Mind",
+      es: "IEM Katowice — Stop Blowing My Mind",
     },
     description: {
       pt: "Quatro kills de AWP sozinho. O clutch que virou lenda.",
